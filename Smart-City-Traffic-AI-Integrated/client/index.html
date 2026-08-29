@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart City Traffic Route Optimizer</title>
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+</head>
+
+<body>
+
+<header class="navbar">
+
+    <div class="logo">
+        🚦 Smart Traffic
+    </div>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#routes">Routes</a>
+        <a href="#traffic">Traffic</a>
+        <a href="#dashboard">Dashboard</a>
+    </nav>
+
+</header>
+
+<section class="hero" id="home">
+
+    <div class="hero-content">
+
+        <span class="badge">Smart Traffic Routing</span>
+
+        <h1>
+            Smart City
+            <span>Traffic Management</span>
+        </h1>
+
+        <p>
+            Find the shortest and fastest route using
+            Dijkstra Algorithm, BFS and Graph Data Structure.
+        </p>
+
+        <div class="hero-buttons">
+
+            <button class="primary-btn"
+            onclick="document.getElementById('routes').scrollIntoView({behavior:'smooth'})">
+                🚀 Find Route
+            </button>
+
+            <button class="secondary-btn"
+            onclick="document.getElementById('traffic').scrollIntoView({behavior:'smooth'})">
+                🗺 View Graph
+            </button>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section class="dashboard" id="routes">
+
+    <div class="route-card">
+
+        <h2>🚗 Route Finder</h2>
+
+        <label>Source City</label>
+        <select id="source"></select>
+
+        <label>Destination City</label>
+        <select id="destination"></select>
+
+        <label>Vehicle</label>
+
+        <select id="vehicle">
+            <option>Car</option>
+            <option>Bike</option>
+            <option>Bus</option>
+        </select>
+
+        <label>Current / Departure Time</label>
+        <div class="time-input-row">
+            <input type="time" id="departureTime">
+            <button type="button" id="currentTimeBtn" class="time-btn">Use Current Time</button>
+        </div>
+
+        <label>Day Type</label>
+        <select id="dayType">
+            <option value="0">Weekday</option>
+            <option value="1">Weekend</option>
+        </select>
+
+        <button onclick="findRoute()" class="find-btn">
+            Find Best Route
+        </button>
+
+    </div>
+
+    <div class="stats-panel">
+
+        <div class="info-card">
+            <h3>Total Cities</h3>
+            <span>13</span>
+        </div>
+
+        <div class="info-card">
+            <h3>Total Roads</h3>
+            <span>25</span>
+        </div>
+
+        <div class="info-card">
+            <h3>Traffic</h3>
+            <span>Data-driven</span>
+        </div>
+
+        <div class="info-card">
+            <h3>Algorithms</h3>
+            <span>Dijkstra<br>BFS<br>Graph</span>
+        </div>
+
+        <div class="info-card">
+            <h3>AI Model</h3>
+            <span>KNN<br>Traffic Forecast</span>
+        </div>
+
+    </div>
+
+</section>
+
+<section class="graph-card" id="traffic">
+
+    <h2>🗺️ City Network</h2>
+
+    <canvas id="graphCanvas" width="1200" height="420"></canvas>
+
+</section>
+
+<section class="map-card">
+
+    <h2>🗺 Interactive City Map</h2>
+
+    <div id="map"></div>
+
+</section>
+
+<div class="bottom-section" id="dashboard">
+
+    <section class="result-card">
+
+        <h2>🚦 Route Summary</h2>
+
+        <div id="result">
+            Search a route to view details.
+        </div>
+
+    </section>
+
+    <section class="nearby-card">
+
+        <h2>🏥 Nearby Places</h2>
+
+        <div id="nearbyPlaces">
+            Nearby places will appear here.
+        </div>
+
+    </section>
+
+</div>
+
+<footer>
+
+    <h3>🚦 Smart Traffic Route Optimizer</h3>
+
+    <p>
+        Graph algorithms, traffic analysis, route optimization,
+        Leaflet maps and a Node.js backend.
+    </p>
+
+    <p>Modified and maintained by <strong>Md Zeeshan</strong>.</p>
+
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="js/graph.js"></script>
+<script src="js/config.js"></script>
+<script src="js/app.js"></script>
+<script src="js/map.js"></script>
+
+</body>
+</html>

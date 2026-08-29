@@ -1,0 +1,5762 @@
+[
+  {
+    "hour": 20,
+    "isWeekend": 0,
+    "distanceKm": 14.3,
+    "trafficScore": 55,
+    "vehicleSpeed": 40,
+    "delayMinutes": 17.68
+  },
+  {
+    "hour": 21,
+    "isWeekend": 0,
+    "distanceKm": 110.4,
+    "trafficScore": 24,
+    "vehicleSpeed": 40,
+    "delayMinutes": 120.86
+  },
+  {
+    "hour": 2,
+    "isWeekend": 0,
+    "distanceKm": 49.6,
+    "trafficScore": 23,
+    "vehicleSpeed": 60,
+    "delayMinutes": 9.73
+  },
+  {
+    "hour": 17,
+    "isWeekend": 1,
+    "distanceKm": 47.5,
+    "trafficScore": 55,
+    "vehicleSpeed": 40,
+    "delayMinutes": 61.81
+  },
+  {
+    "hour": 5,
+    "isWeekend": 1,
+    "distanceKm": 67.8,
+    "trafficScore": 39,
+    "vehicleSpeed": 40,
+    "delayMinutes": 29.33
+  },
+  {
+    "hour": 2,
+    "isWeekend": 1,
+    "distanceKm": 26.4,
+    "trafficScore": 64,
+    "vehicleSpeed": 60,
+    "delayMinutes": 9.55
+  },
+  {
+    "hour": 8,
+    "isWeekend": 0,
+    "distanceKm": 134.1,
+    "trafficScore": 88,
+    "vehicleSpeed": 40,
+    "delayMinutes": 210.99
+  },
+  {
+    "hour": 17,
+    "isWeekend": 1,
+    "distanceKm": 151.0,
+    "trafficScore": 66,
+    "vehicleSpeed": 60,
+    "delayMinutes": 123.2
+  },
+  {
+    "hour": 6,
+    "isWeekend": 0,
+    "distanceKm": 17.8,
+    "trafficScore": 49,
+    "vehicleSpeed": 45,
+    "delayMinutes": 14.01
+  },
+  {
+    "hour": 3,
+    "isWeekend": 1,
+    "distanceKm": 57.3,
+    "trafficScore": 66,
+    "vehicleSpeed": 40,
+    "delayMinutes": 32.61
+  },
+  {
+    "hour": 11,
+    "isWeekend": 1,
+    "distanceKm": 45.6,
+    "trafficScore": 54,
+    "vehicleSpeed": 60,
+    "delayMinutes": 24.06
+  },
+  {
+    "hour": 19,
+    "isWeekend": 0,
+    "distanceKm": 100.8,
+    "trafficScore": 51,
+    "vehicleSpeed": 40,
+    "delayMinutes": 110.63
+  },
+  {
+    "hour": 14,
+    "isWeekend": 1,
+    "distanceKm": 55.9,
+    "trafficScore": 48,
+    "vehicleSpeed": 60,
+    "delayMinutes": 22.94
+  },
+  {
+    "hour": 1,
+    "isWeekend": 0,
+    "distanceKm": 149.7,
+    "trafficScore": 60,
+    "vehicleSpeed": 45,
+    "delayMinutes": 104.23
+  },
+  {
+    "hour": 8,
+    "isWeekend": 0,
+    "distanceKm": 45.9,
+    "trafficScore": 60,
+    "vehicleSpeed": 40,
+    "delayMinutes": 51.3
+  },
+  {
+    "hour": 20,
+    "isWeekend": 1,
+    "distanceKm": 34.3,
+    "trafficScore": 37,
+    "vehicleSpeed": 40,
+    "delayMinutes": 29.53
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 137.0,
+    "trafficScore": 74,
+    "vehicleSpeed": 60,
+    "delayMinutes": 69.26
+  },
+  {
+    "hour": 4,
+    "isWeekend": 1,
+    "distanceKm": 25.5,
+    "trafficScore": 26,
+    "vehicleSpeed": 40,
+    "delayMinutes": 6.4
+  },
+  {
+    "hour": 4,
+    "isWeekend": 0,
+    "distanceKm": 144.7,
+    "trafficScore": 74,
+    "vehicleSpeed": 60,
+    "delayMinutes": 81.51
+  },
+  {
+    "hour": 14,
+    "isWeekend": 1,
+    "distanceKm": 175.1,
+    "trafficScore": 21,
+    "vehicleSpeed": 60,
+    "delayMinutes": 57.25
+  },
+  {
+    "hour": 23,
+    "isWeekend": 0,
+    "distanceKm": 125.9,
+    "trafficScore": 88,
+    "vehicleSpeed": 45,
+    "delayMinutes": 116.75
+  },
+  {
+    "hour": 9,
+    "isWeekend": 1,
+    "distanceKm": 36.9,
+    "trafficScore": 20,
+    "vehicleSpeed": 60,
+    "delayMinutes": 15.22
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 175.2,
+    "trafficScore": 42,
+    "vehicleSpeed": 60,
+    "delayMinutes": 84.27
+  },
+  {
+    "hour": 9,
+    "isWeekend": 0,
+    "distanceKm": 36.0,
+    "trafficScore": 40,
+    "vehicleSpeed": 60,
+    "delayMinutes": 20.72
+  },
+  {
+    "hour": 16,
+    "isWeekend": 0,
+    "distanceKm": 111.8,
+    "trafficScore": 82,
+    "vehicleSpeed": 40,
+    "delayMinutes": 118.39
+  },
+  {
+    "hour": 9,
+    "isWeekend": 0,
+    "distanceKm": 19.8,
+    "trafficScore": 30,
+    "vehicleSpeed": 40,
+    "delayMinutes": 19.13
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 148.7,
+    "trafficScore": 88,
+    "vehicleSpeed": 40,
+    "delayMinutes": 157.22
+  },
+  {
+    "hour": 17,
+    "isWeekend": 0,
+    "distanceKm": 55.1,
+    "trafficScore": 74,
+    "vehicleSpeed": 40,
+    "delayMinutes": 81.96
+  },
+  {
+    "hour": 17,
+    "isWeekend": 0,
+    "distanceKm": 131.2,
+    "trafficScore": 71,
+    "vehicleSpeed": 60,
+    "delayMinutes": 112.3
+  },
+  {
+    "hour": 16,
+    "isWeekend": 1,
+    "distanceKm": 30.6,
+    "trafficScore": 48,
+    "vehicleSpeed": 40,
+    "delayMinutes": 14.35
+  },
+  {
+    "hour": 10,
+    "isWeekend": 0,
+    "distanceKm": 110.0,
+    "trafficScore": 49,
+    "vehicleSpeed": 60,
+    "delayMinutes": 79.66
+  },
+  {
+    "hour": 20,
+    "isWeekend": 0,
+    "distanceKm": 48.9,
+    "trafficScore": 24,
+    "vehicleSpeed": 45,
+    "delayMinutes": 41.15
+  },
+  {
+    "hour": 2,
+    "isWeekend": 0,
+    "distanceKm": 57.3,
+    "trafficScore": 82,
+    "vehicleSpeed": 40,
+    "delayMinutes": 35.98
+  },
+  {
+    "hour": 18,
+    "isWeekend": 1,
+    "distanceKm": 51.3,
+    "trafficScore": 80,
+    "vehicleSpeed": 45,
+    "delayMinutes": 60.79
+  },
+  {
+    "hour": 6,
+    "isWeekend": 0,
+    "distanceKm": 26.5,
+    "trafficScore": 75,
+    "vehicleSpeed": 45,
+    "delayMinutes": 18.48
+  },
+  {
+    "hour": 23,
+    "isWeekend": 0,
+    "distanceKm": 124.5,
+    "trafficScore": 32,
+    "vehicleSpeed": 40,
+    "delayMinutes": 68.06
+  },
+  {
+    "hour": 12,
+    "isWeekend": 1,
+    "distanceKm": 146.1,
+    "trafficScore": 33,
+    "vehicleSpeed": 40,
+    "delayMinutes": 89.87
+  },
+  {
+    "hour": 4,
+    "isWeekend": 1,
+    "distanceKm": 41.2,
+    "trafficScore": 79,
+    "vehicleSpeed": 40,
+    "delayMinutes": 35.29
+  },
+  {
+    "hour": 2,
+    "isWeekend": 1,
+    "distanceKm": 147.4,
+    "trafficScore": 90,
+    "vehicleSpeed": 40,
+    "delayMinutes": 185.54
+  },
+  {
+    "hour": 0,
+    "isWeekend": 0,
+    "distanceKm": 167.5,
+    "trafficScore": 50,
+    "vehicleSpeed": 40,
+    "delayMinutes": 108.07
+  },
+  {
+    "hour": 13,
+    "isWeekend": 1,
+    "distanceKm": 91.8,
+    "trafficScore": 71,
+    "vehicleSpeed": 40,
+    "delayMinutes": 85.95
+  },
+  {
+    "hour": 12,
+    "isWeekend": 1,
+    "distanceKm": 167.5,
+    "trafficScore": 78,
+    "vehicleSpeed": 45,
+    "delayMinutes": 149.97
+  },
+  {
+    "hour": 13,
+    "isWeekend": 1,
+    "distanceKm": 36.3,
+    "trafficScore": 57,
+    "vehicleSpeed": 40,
+    "delayMinutes": 34.51
+  },
+  {
+    "hour": 17,
+    "isWeekend": 0,
+    "distanceKm": 137.2,
+    "trafficScore": 27,
+    "vehicleSpeed": 40,
+    "delayMinutes": 123.47
+  },
+  {
+    "hour": 18,
+    "isWeekend": 1,
+    "distanceKm": 95.5,
+    "trafficScore": 87,
+    "vehicleSpeed": 40,
+    "delayMinutes": 151.09
+  },
+  {
+    "hour": 5,
+    "isWeekend": 0,
+    "distanceKm": 111.2,
+    "trafficScore": 50,
+    "vehicleSpeed": 45,
+    "delayMinutes": 54.61
+  },
+  {
+    "hour": 3,
+    "isWeekend": 0,
+    "distanceKm": 108.4,
+    "trafficScore": 25,
+    "vehicleSpeed": 60,
+    "delayMinutes": 29.74
+  },
+  {
+    "hour": 18,
+    "isWeekend": 1,
+    "distanceKm": 168.9,
+    "trafficScore": 46,
+    "vehicleSpeed": 60,
+    "delayMinutes": 127.8
+  },
+  {
+    "hour": 22,
+    "isWeekend": 1,
+    "distanceKm": 50.6,
+    "trafficScore": 70,
+    "vehicleSpeed": 40,
+    "delayMinutes": 37.42
+  },
+  {
+    "hour": 10,
+    "isWeekend": 0,
+    "distanceKm": 11.6,
+    "trafficScore": 32,
+    "vehicleSpeed": 40,
+    "delayMinutes": 9.54
+  },
+  {
+    "hour": 17,
+    "isWeekend": 0,
+    "distanceKm": 96.0,
+    "trafficScore": 36,
+    "vehicleSpeed": 45,
+    "delayMinutes": 102.34
+  },
+  {
+    "hour": 11,
+    "isWeekend": 1,
+    "distanceKm": 36.8,
+    "trafficScore": 89,
+    "vehicleSpeed": 60,
+    "delayMinutes": 19.74
+  },
+  {
+    "hour": 9,
+    "isWeekend": 0,
+    "distanceKm": 123.5,
+    "trafficScore": 90,
+    "vehicleSpeed": 45,
+    "delayMinutes": 167.8
+  },
+  {
+    "hour": 4,
+    "isWeekend": 1,
+    "distanceKm": 29.6,
+    "trafficScore": 33,
+    "vehicleSpeed": 60,
+    "delayMinutes": 4.85
+  },
+  {
+    "hour": 17,
+    "isWeekend": 0,
+    "distanceKm": 56.3,
+    "trafficScore": 46,
+    "vehicleSpeed": 60,
+    "delayMinutes": 38.1
+  },
+  {
+    "hour": 8,
+    "isWeekend": 1,
+    "distanceKm": 52.7,
+    "trafficScore": 26,
+    "vehicleSpeed": 40,
+    "delayMinutes": 49.47
+  },
+  {
+    "hour": 20,
+    "isWeekend": 1,
+    "distanceKm": 151.0,
+    "trafficScore": 25,
+    "vehicleSpeed": 40,
+    "delayMinutes": 122.6
+  },
+  {
+    "hour": 8,
+    "isWeekend": 0,
+    "distanceKm": 136.0,
+    "trafficScore": 90,
+    "vehicleSpeed": 60,
+    "delayMinutes": 138.95
+  },
+  {
+    "hour": 13,
+    "isWeekend": 0,
+    "distanceKm": 29.0,
+    "trafficScore": 39,
+    "vehicleSpeed": 60,
+    "delayMinutes": 15.47
+  },
+  {
+    "hour": 17,
+    "isWeekend": 0,
+    "distanceKm": 83.1,
+    "trafficScore": 25,
+    "vehicleSpeed": 45,
+    "delayMinutes": 69.22
+  },
+  {
+    "hour": 11,
+    "isWeekend": 0,
+    "distanceKm": 162.8,
+    "trafficScore": 46,
+    "vehicleSpeed": 60,
+    "delayMinutes": 67.42
+  },
+  {
+    "hour": 17,
+    "isWeekend": 1,
+    "distanceKm": 175.6,
+    "trafficScore": 39,
+    "vehicleSpeed": 40,
+    "delayMinutes": 181.95
+  },
+  {
+    "hour": 5,
+    "isWeekend": 0,
+    "distanceKm": 159.8,
+    "trafficScore": 23,
+    "vehicleSpeed": 40,
+    "delayMinutes": 36.78
+  },
+  {
+    "hour": 13,
+    "isWeekend": 0,
+    "distanceKm": 55.4,
+    "trafficScore": 33,
+    "vehicleSpeed": 45,
+    "delayMinutes": 25.7
+  },
+  {
+    "hour": 1,
+    "isWeekend": 1,
+    "distanceKm": 47.8,
+    "trafficScore": 78,
+    "vehicleSpeed": 45,
+    "delayMinutes": 27.0
+  },
+  {
+    "hour": 7,
+    "isWeekend": 0,
+    "distanceKm": 14.0,
+    "trafficScore": 44,
+    "vehicleSpeed": 45,
+    "delayMinutes": 15.31
+  },
+  {
+    "hour": 10,
+    "isWeekend": 1,
+    "distanceKm": 156.9,
+    "trafficScore": 55,
+    "vehicleSpeed": 45,
+    "delayMinutes": 138.4
+  },
+  {
+    "hour": 17,
+    "isWeekend": 1,
+    "distanceKm": 169.7,
+    "trafficScore": 34,
+    "vehicleSpeed": 45,
+    "delayMinutes": 126.31
+  },
+  {
+    "hour": 5,
+    "isWeekend": 1,
+    "distanceKm": 16.5,
+    "trafficScore": 75,
+    "vehicleSpeed": 45,
+    "delayMinutes": 9.75
+  },
+  {
+    "hour": 19,
+    "isWeekend": 0,
+    "distanceKm": 75.5,
+    "trafficScore": 44,
+    "vehicleSpeed": 45,
+    "delayMinutes": 66.66
+  },
+  {
+    "hour": 1,
+    "isWeekend": 1,
+    "distanceKm": 10.3,
+    "trafficScore": 88,
+    "vehicleSpeed": 60,
+    "delayMinutes": 5.27
+  },
+  {
+    "hour": 21,
+    "isWeekend": 0,
+    "distanceKm": 71.9,
+    "trafficScore": 28,
+    "vehicleSpeed": 60,
+    "delayMinutes": 35.79
+  },
+  {
+    "hour": 10,
+    "isWeekend": 1,
+    "distanceKm": 122.8,
+    "trafficScore": 35,
+    "vehicleSpeed": 60,
+    "delayMinutes": 80.99
+  },
+  {
+    "hour": 21,
+    "isWeekend": 1,
+    "distanceKm": 65.5,
+    "trafficScore": 57,
+    "vehicleSpeed": 60,
+    "delayMinutes": 46.81
+  },
+  {
+    "hour": 4,
+    "isWeekend": 0,
+    "distanceKm": 81.5,
+    "trafficScore": 68,
+    "vehicleSpeed": 60,
+    "delayMinutes": 36.79
+  },
+  {
+    "hour": 18,
+    "isWeekend": 1,
+    "distanceKm": 79.0,
+    "trafficScore": 20,
+    "vehicleSpeed": 45,
+    "delayMinutes": 50.62
+  },
+  {
+    "hour": 9,
+    "isWeekend": 0,
+    "distanceKm": 83.1,
+    "trafficScore": 61,
+    "vehicleSpeed": 45,
+    "delayMinutes": 75.83
+  },
+  {
+    "hour": 16,
+    "isWeekend": 1,
+    "distanceKm": 144.9,
+    "trafficScore": 41,
+    "vehicleSpeed": 60,
+    "delayMinutes": 54.98
+  },
+  {
+    "hour": 2,
+    "isWeekend": 1,
+    "distanceKm": 97.6,
+    "trafficScore": 62,
+    "vehicleSpeed": 40,
+    "delayMinutes": 62.02
+  },
+  {
+    "hour": 21,
+    "isWeekend": 1,
+    "distanceKm": 48.2,
+    "trafficScore": 45,
+    "vehicleSpeed": 40,
+    "delayMinutes": 41.3
+  },
+  {
+    "hour": 0,
+    "isWeekend": 0,
+    "distanceKm": 51.6,
+    "trafficScore": 80,
+    "vehicleSpeed": 60,
+    "delayMinutes": 28.29
+  },
+  {
+    "hour": 13,
+    "isWeekend": 0,
+    "distanceKm": 132.1,
+    "trafficScore": 69,
+    "vehicleSpeed": 45,
+    "delayMinutes": 110.66
+  },
+  {
+    "hour": 12,
+    "isWeekend": 0,
+    "distanceKm": 35.1,
+    "trafficScore": 20,
+    "vehicleSpeed": 40,
+    "delayMinutes": 18.16
+  },
+  {
+    "hour": 22,
+    "isWeekend": 1,
+    "distanceKm": 18.5,
+    "trafficScore": 51,
+    "vehicleSpeed": 40,
+    "delayMinutes": 9.61
+  },
+  {
+    "hour": 14,
+    "isWeekend": 0,
+    "distanceKm": 146.2,
+    "trafficScore": 87,
+    "vehicleSpeed": 60,
+    "delayMinutes": 89.01
+  },
+  {
+    "hour": 14,
+    "isWeekend": 1,
+    "distanceKm": 151.2,
+    "trafficScore": 90,
+    "vehicleSpeed": 45,
+    "delayMinutes": 127.91
+  },
+  {
+    "hour": 5,
+    "isWeekend": 1,
+    "distanceKm": 86.5,
+    "trafficScore": 51,
+    "vehicleSpeed": 60,
+    "delayMinutes": 23.6
+  },
+  {
+    "hour": 15,
+    "isWeekend": 0,
+    "distanceKm": 56.7,
+    "trafficScore": 29,
+    "vehicleSpeed": 60,
+    "delayMinutes": 24.96
+  },
+  {
+    "hour": 9,
+    "isWeekend": 0,
+    "distanceKm": 56.2,
+    "trafficScore": 60,
+    "vehicleSpeed": 60,
+    "delayMinutes": 46.65
+  },
+  {
+    "hour": 12,
+    "isWeekend": 0,
+    "distanceKm": 130.1,
+    "trafficScore": 28,
+    "vehicleSpeed": 45,
+    "delayMinutes": 70.98
+  },
+  {
+    "hour": 13,
+    "isWeekend": 1,
+    "distanceKm": 102.2,
+    "trafficScore": 73,
+    "vehicleSpeed": 40,
+    "delayMinutes": 100.7
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 155.6,
+    "trafficScore": 68,
+    "vehicleSpeed": 45,
+    "delayMinutes": 200.72
+  },
+  {
+    "hour": 0,
+    "isWeekend": 1,
+    "distanceKm": 60.8,
+    "trafficScore": 69,
+    "vehicleSpeed": 45,
+    "delayMinutes": 23.26
+  },
+  {
+    "hour": 19,
+    "isWeekend": 0,
+    "distanceKm": 93.0,
+    "trafficScore": 54,
+    "vehicleSpeed": 45,
+    "delayMinutes": 94.86
+  },
+  {
+    "hour": 15,
+    "isWeekend": 0,
+    "distanceKm": 76.1,
+    "trafficScore": 71,
+    "vehicleSpeed": 60,
+    "delayMinutes": 47.35
+  },
+  {
+    "hour": 4,
+    "isWeekend": 0,
+    "distanceKm": 164.2,
+    "trafficScore": 23,
+    "vehicleSpeed": 40,
+    "delayMinutes": 58.33
+  },
+  {
+    "hour": 20,
+    "isWeekend": 1,
+    "distanceKm": 33.1,
+    "trafficScore": 79,
+    "vehicleSpeed": 40,
+    "delayMinutes": 49.04
+  },
+  {
+    "hour": 6,
+    "isWeekend": 1,
+    "distanceKm": 65.6,
+    "trafficScore": 68,
+    "vehicleSpeed": 45,
+    "delayMinutes": 46.91
+  },
+  {
+    "hour": 13,
+    "isWeekend": 1,
+    "distanceKm": 151.9,
+    "trafficScore": 80,
+    "vehicleSpeed": 40,
+    "delayMinutes": 154.9
+  },
+  {
+    "hour": 11,
+    "isWeekend": 0,
+    "distanceKm": 120.5,
+    "trafficScore": 25,
+    "vehicleSpeed": 40,
+    "delayMinutes": 45.43
+  },
+  {
+    "hour": 7,
+    "isWeekend": 0,
+    "distanceKm": 152.7,
+    "trafficScore": 39,
+    "vehicleSpeed": 40,
+    "delayMinutes": 168.82
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 89.1,
+    "trafficScore": 52,
+    "vehicleSpeed": 45,
+    "delayMinutes": 103.1
+  },
+  {
+    "hour": 5,
+    "isWeekend": 0,
+    "distanceKm": 142.2,
+    "trafficScore": 40,
+    "vehicleSpeed": 45,
+    "delayMinutes": 53.88
+  },
+  {
+    "hour": 9,
+    "isWeekend": 1,
+    "distanceKm": 77.4,
+    "trafficScore": 45,
+    "vehicleSpeed": 40,
+    "delayMinutes": 76.51
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 27.3,
+    "trafficScore": 58,
+    "vehicleSpeed": 60,
+    "delayMinutes": 21.54
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 69.0,
+    "trafficScore": 74,
+    "vehicleSpeed": 60,
+    "delayMinutes": 62.24
+  },
+  {
+    "hour": 11,
+    "isWeekend": 0,
+    "distanceKm": 96.0,
+    "trafficScore": 63,
+    "vehicleSpeed": 40,
+    "delayMinutes": 88.07
+  },
+  {
+    "hour": 3,
+    "isWeekend": 1,
+    "distanceKm": 173.3,
+    "trafficScore": 78,
+    "vehicleSpeed": 60,
+    "delayMinutes": 60.91
+  },
+  {
+    "hour": 4,
+    "isWeekend": 1,
+    "distanceKm": 39.9,
+    "trafficScore": 86,
+    "vehicleSpeed": 60,
+    "delayMinutes": 20.18
+  },
+  {
+    "hour": 17,
+    "isWeekend": 1,
+    "distanceKm": 89.0,
+    "trafficScore": 54,
+    "vehicleSpeed": 45,
+    "delayMinutes": 106.23
+  },
+  {
+    "hour": 7,
+    "isWeekend": 0,
+    "distanceKm": 57.4,
+    "trafficScore": 77,
+    "vehicleSpeed": 40,
+    "delayMinutes": 77.56
+  },
+  {
+    "hour": 21,
+    "isWeekend": 1,
+    "distanceKm": 67.2,
+    "trafficScore": 83,
+    "vehicleSpeed": 45,
+    "delayMinutes": 74.87
+  },
+  {
+    "hour": 5,
+    "isWeekend": 1,
+    "distanceKm": 46.1,
+    "trafficScore": 53,
+    "vehicleSpeed": 45,
+    "delayMinutes": 17.8
+  },
+  {
+    "hour": 8,
+    "isWeekend": 0,
+    "distanceKm": 97.8,
+    "trafficScore": 44,
+    "vehicleSpeed": 40,
+    "delayMinutes": 116.17
+  },
+  {
+    "hour": 7,
+    "isWeekend": 1,
+    "distanceKm": 93.1,
+    "trafficScore": 50,
+    "vehicleSpeed": 60,
+    "delayMinutes": 51.69
+  },
+  {
+    "hour": 14,
+    "isWeekend": 0,
+    "distanceKm": 25.8,
+    "trafficScore": 48,
+    "vehicleSpeed": 45,
+    "delayMinutes": 18.43
+  },
+  {
+    "hour": 22,
+    "isWeekend": 0,
+    "distanceKm": 62.1,
+    "trafficScore": 67,
+    "vehicleSpeed": 45,
+    "delayMinutes": 39.84
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 69.8,
+    "trafficScore": 78,
+    "vehicleSpeed": 45,
+    "delayMinutes": 51.45
+  },
+  {
+    "hour": 9,
+    "isWeekend": 1,
+    "distanceKm": 49.2,
+    "trafficScore": 44,
+    "vehicleSpeed": 45,
+    "delayMinutes": 46.8
+  },
+  {
+    "hour": 22,
+    "isWeekend": 0,
+    "distanceKm": 42.6,
+    "trafficScore": 81,
+    "vehicleSpeed": 45,
+    "delayMinutes": 40.28
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 176.7,
+    "trafficScore": 44,
+    "vehicleSpeed": 45,
+    "delayMinutes": 85.55
+  },
+  {
+    "hour": 0,
+    "isWeekend": 0,
+    "distanceKm": 56.6,
+    "trafficScore": 26,
+    "vehicleSpeed": 60,
+    "delayMinutes": 12.95
+  },
+  {
+    "hour": 9,
+    "isWeekend": 0,
+    "distanceKm": 118.4,
+    "trafficScore": 82,
+    "vehicleSpeed": 40,
+    "delayMinutes": 178.64
+  },
+  {
+    "hour": 15,
+    "isWeekend": 1,
+    "distanceKm": 84.9,
+    "trafficScore": 43,
+    "vehicleSpeed": 40,
+    "delayMinutes": 34.96
+  },
+  {
+    "hour": 8,
+    "isWeekend": 1,
+    "distanceKm": 29.4,
+    "trafficScore": 28,
+    "vehicleSpeed": 45,
+    "delayMinutes": 16.94
+  },
+  {
+    "hour": 21,
+    "isWeekend": 0,
+    "distanceKm": 35.8,
+    "trafficScore": 58,
+    "vehicleSpeed": 40,
+    "delayMinutes": 44.43
+  },
+  {
+    "hour": 7,
+    "isWeekend": 0,
+    "distanceKm": 104.9,
+    "trafficScore": 73,
+    "vehicleSpeed": 60,
+    "delayMinutes": 82.15
+  },
+  {
+    "hour": 16,
+    "isWeekend": 1,
+    "distanceKm": 86.6,
+    "trafficScore": 76,
+    "vehicleSpeed": 45,
+    "delayMinutes": 57.84
+  },
+  {
+    "hour": 18,
+    "isWeekend": 1,
+    "distanceKm": 61.9,
+    "trafficScore": 27,
+    "vehicleSpeed": 60,
+    "delayMinutes": 37.82
+  },
+  {
+    "hour": 6,
+    "isWeekend": 0,
+    "distanceKm": 55.0,
+    "trafficScore": 30,
+    "vehicleSpeed": 40,
+    "delayMinutes": 24.83
+  },
+  {
+    "hour": 7,
+    "isWeekend": 0,
+    "distanceKm": 103.8,
+    "trafficScore": 40,
+    "vehicleSpeed": 40,
+    "delayMinutes": 86.78
+  },
+  {
+    "hour": 15,
+    "isWeekend": 1,
+    "distanceKm": 15.5,
+    "trafficScore": 56,
+    "vehicleSpeed": 60,
+    "delayMinutes": 7.76
+  },
+  {
+    "hour": 9,
+    "isWeekend": 1,
+    "distanceKm": 22.1,
+    "trafficScore": 49,
+    "vehicleSpeed": 45,
+    "delayMinutes": 20.62
+  },
+  {
+    "hour": 21,
+    "isWeekend": 0,
+    "distanceKm": 82.3,
+    "trafficScore": 89,
+    "vehicleSpeed": 40,
+    "delayMinutes": 112.91
+  },
+  {
+    "hour": 20,
+    "isWeekend": 0,
+    "distanceKm": 164.4,
+    "trafficScore": 38,
+    "vehicleSpeed": 40,
+    "delayMinutes": 203.21
+  },
+  {
+    "hour": 19,
+    "isWeekend": 1,
+    "distanceKm": 84.7,
+    "trafficScore": 79,
+    "vehicleSpeed": 60,
+    "delayMinutes": 81.77
+  },
+  {
+    "hour": 9,
+    "isWeekend": 1,
+    "distanceKm": 170.3,
+    "trafficScore": 84,
+    "vehicleSpeed": 60,
+    "delayMinutes": 147.86
+  },
+  {
+    "hour": 1,
+    "isWeekend": 1,
+    "distanceKm": 134.9,
+    "trafficScore": 52,
+    "vehicleSpeed": 40,
+    "delayMinutes": 61.57
+  },
+  {
+    "hour": 2,
+    "isWeekend": 0,
+    "distanceKm": 173.5,
+    "trafficScore": 22,
+    "vehicleSpeed": 60,
+    "delayMinutes": 34.44
+  },
+  {
+    "hour": 5,
+    "isWeekend": 1,
+    "distanceKm": 98.2,
+    "trafficScore": 76,
+    "vehicleSpeed": 45,
+    "delayMinutes": 47.73
+  },
+  {
+    "hour": 5,
+    "isWeekend": 1,
+    "distanceKm": 117.9,
+    "trafficScore": 82,
+    "vehicleSpeed": 40,
+    "delayMinutes": 73.83
+  },
+  {
+    "hour": 10,
+    "isWeekend": 0,
+    "distanceKm": 155.8,
+    "trafficScore": 62,
+    "vehicleSpeed": 45,
+    "delayMinutes": 170.0
+  },
+  {
+    "hour": 22,
+    "isWeekend": 1,
+    "distanceKm": 59.0,
+    "trafficScore": 71,
+    "vehicleSpeed": 60,
+    "delayMinutes": 33.33
+  },
+  {
+    "hour": 8,
+    "isWeekend": 1,
+    "distanceKm": 29.7,
+    "trafficScore": 71,
+    "vehicleSpeed": 60,
+    "delayMinutes": 24.48
+  },
+  {
+    "hour": 0,
+    "isWeekend": 1,
+    "distanceKm": 80.3,
+    "trafficScore": 44,
+    "vehicleSpeed": 60,
+    "delayMinutes": 13.18
+  },
+  {
+    "hour": 20,
+    "isWeekend": 1,
+    "distanceKm": 139.2,
+    "trafficScore": 46,
+    "vehicleSpeed": 45,
+    "delayMinutes": 148.78
+  },
+  {
+    "hour": 17,
+    "isWeekend": 0,
+    "distanceKm": 167.7,
+    "trafficScore": 76,
+    "vehicleSpeed": 60,
+    "delayMinutes": 154.24
+  },
+  {
+    "hour": 20,
+    "isWeekend": 0,
+    "distanceKm": 130.7,
+    "trafficScore": 59,
+    "vehicleSpeed": 60,
+    "delayMinutes": 108.53
+  },
+  {
+    "hour": 0,
+    "isWeekend": 1,
+    "distanceKm": 25.8,
+    "trafficScore": 34,
+    "vehicleSpeed": 45,
+    "delayMinutes": 10.16
+  },
+  {
+    "hour": 4,
+    "isWeekend": 1,
+    "distanceKm": 168.6,
+    "trafficScore": 57,
+    "vehicleSpeed": 60,
+    "delayMinutes": 50.2
+  },
+  {
+    "hour": 22,
+    "isWeekend": 1,
+    "distanceKm": 80.6,
+    "trafficScore": 81,
+    "vehicleSpeed": 45,
+    "delayMinutes": 64.53
+  },
+  {
+    "hour": 12,
+    "isWeekend": 0,
+    "distanceKm": 166.7,
+    "trafficScore": 85,
+    "vehicleSpeed": 60,
+    "delayMinutes": 143.14
+  },
+  {
+    "hour": 4,
+    "isWeekend": 0,
+    "distanceKm": 57.0,
+    "trafficScore": 73,
+    "vehicleSpeed": 45,
+    "delayMinutes": 43.45
+  },
+  {
+    "hour": 0,
+    "isWeekend": 1,
+    "distanceKm": 133.4,
+    "trafficScore": 82,
+    "vehicleSpeed": 40,
+    "delayMinutes": 92.0
+  },
+  {
+    "hour": 14,
+    "isWeekend": 1,
+    "distanceKm": 68.7,
+    "trafficScore": 90,
+    "vehicleSpeed": 60,
+    "delayMinutes": 42.02
+  },
+  {
+    "hour": 6,
+    "isWeekend": 0,
+    "distanceKm": 107.2,
+    "trafficScore": 49,
+    "vehicleSpeed": 45,
+    "delayMinutes": 80.49
+  },
+  {
+    "hour": 1,
+    "isWeekend": 1,
+    "distanceKm": 136.6,
+    "trafficScore": 68,
+    "vehicleSpeed": 45,
+    "delayMinutes": 99.9
+  },
+  {
+    "hour": 20,
+    "isWeekend": 0,
+    "distanceKm": 94.2,
+    "trafficScore": 24,
+    "vehicleSpeed": 40,
+    "delayMinutes": 83.46
+  },
+  {
+    "hour": 16,
+    "isWeekend": 1,
+    "distanceKm": 157.8,
+    "trafficScore": 76,
+    "vehicleSpeed": 40,
+    "delayMinutes": 112.85
+  },
+  {
+    "hour": 23,
+    "isWeekend": 0,
+    "distanceKm": 79.7,
+    "trafficScore": 39,
+    "vehicleSpeed": 40,
+    "delayMinutes": 42.34
+  },
+  {
+    "hour": 15,
+    "isWeekend": 1,
+    "distanceKm": 67.6,
+    "trafficScore": 70,
+    "vehicleSpeed": 60,
+    "delayMinutes": 39.72
+  },
+  {
+    "hour": 21,
+    "isWeekend": 1,
+    "distanceKm": 172.2,
+    "trafficScore": 82,
+    "vehicleSpeed": 60,
+    "delayMinutes": 166.61
+  },
+  {
+    "hour": 1,
+    "isWeekend": 0,
+    "distanceKm": 49.9,
+    "trafficScore": 56,
+    "vehicleSpeed": 40,
+    "delayMinutes": 27.86
+  },
+  {
+    "hour": 3,
+    "isWeekend": 0,
+    "distanceKm": 85.4,
+    "trafficScore": 58,
+    "vehicleSpeed": 40,
+    "delayMinutes": 38.64
+  },
+  {
+    "hour": 1,
+    "isWeekend": 1,
+    "distanceKm": 145.3,
+    "trafficScore": 57,
+    "vehicleSpeed": 45,
+    "delayMinutes": 58.86
+  },
+  {
+    "hour": 16,
+    "isWeekend": 1,
+    "distanceKm": 106.2,
+    "trafficScore": 43,
+    "vehicleSpeed": 40,
+    "delayMinutes": 60.74
+  },
+  {
+    "hour": 5,
+    "isWeekend": 0,
+    "distanceKm": 113.6,
+    "trafficScore": 68,
+    "vehicleSpeed": 60,
+    "delayMinutes": 47.0
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 49.5,
+    "trafficScore": 52,
+    "vehicleSpeed": 45,
+    "delayMinutes": 46.02
+  },
+  {
+    "hour": 8,
+    "isWeekend": 0,
+    "distanceKm": 162.8,
+    "trafficScore": 79,
+    "vehicleSpeed": 45,
+    "delayMinutes": 193.82
+  },
+  {
+    "hour": 14,
+    "isWeekend": 1,
+    "distanceKm": 177.9,
+    "trafficScore": 58,
+    "vehicleSpeed": 60,
+    "delayMinutes": 88.03
+  },
+  {
+    "hour": 13,
+    "isWeekend": 1,
+    "distanceKm": 87.7,
+    "trafficScore": 58,
+    "vehicleSpeed": 40,
+    "delayMinutes": 91.26
+  },
+  {
+    "hour": 3,
+    "isWeekend": 0,
+    "distanceKm": 74.8,
+    "trafficScore": 65,
+    "vehicleSpeed": 60,
+    "delayMinutes": 32.3
+  },
+  {
+    "hour": 9,
+    "isWeekend": 1,
+    "distanceKm": 13.7,
+    "trafficScore": 70,
+    "vehicleSpeed": 45,
+    "delayMinutes": 17.72
+  },
+  {
+    "hour": 23,
+    "isWeekend": 0,
+    "distanceKm": 164.8,
+    "trafficScore": 83,
+    "vehicleSpeed": 45,
+    "delayMinutes": 145.6
+  },
+  {
+    "hour": 7,
+    "isWeekend": 1,
+    "distanceKm": 47.2,
+    "trafficScore": 44,
+    "vehicleSpeed": 60,
+    "delayMinutes": 30.23
+  },
+  {
+    "hour": 21,
+    "isWeekend": 0,
+    "distanceKm": 116.8,
+    "trafficScore": 25,
+    "vehicleSpeed": 45,
+    "delayMinutes": 115.52
+  },
+  {
+    "hour": 14,
+    "isWeekend": 0,
+    "distanceKm": 108.5,
+    "trafficScore": 36,
+    "vehicleSpeed": 40,
+    "delayMinutes": 81.21
+  },
+  {
+    "hour": 13,
+    "isWeekend": 0,
+    "distanceKm": 44.1,
+    "trafficScore": 89,
+    "vehicleSpeed": 45,
+    "delayMinutes": 43.82
+  },
+  {
+    "hour": 16,
+    "isWeekend": 1,
+    "distanceKm": 151.2,
+    "trafficScore": 52,
+    "vehicleSpeed": 45,
+    "delayMinutes": 95.46
+  },
+  {
+    "hour": 10,
+    "isWeekend": 0,
+    "distanceKm": 89.6,
+    "trafficScore": 29,
+    "vehicleSpeed": 40,
+    "delayMinutes": 77.26
+  },
+  {
+    "hour": 7,
+    "isWeekend": 1,
+    "distanceKm": 174.4,
+    "trafficScore": 66,
+    "vehicleSpeed": 40,
+    "delayMinutes": 205.98
+  },
+  {
+    "hour": 17,
+    "isWeekend": 0,
+    "distanceKm": 87.3,
+    "trafficScore": 53,
+    "vehicleSpeed": 60,
+    "delayMinutes": 67.79
+  },
+  {
+    "hour": 12,
+    "isWeekend": 1,
+    "distanceKm": 28.4,
+    "trafficScore": 49,
+    "vehicleSpeed": 45,
+    "delayMinutes": 24.33
+  },
+  {
+    "hour": 17,
+    "isWeekend": 1,
+    "distanceKm": 165.6,
+    "trafficScore": 48,
+    "vehicleSpeed": 60,
+    "delayMinutes": 122.22
+  },
+  {
+    "hour": 2,
+    "isWeekend": 1,
+    "distanceKm": 164.6,
+    "trafficScore": 58,
+    "vehicleSpeed": 60,
+    "delayMinutes": 50.23
+  },
+  {
+    "hour": 1,
+    "isWeekend": 1,
+    "distanceKm": 179.3,
+    "trafficScore": 34,
+    "vehicleSpeed": 40,
+    "delayMinutes": 56.46
+  },
+  {
+    "hour": 7,
+    "isWeekend": 0,
+    "distanceKm": 76.1,
+    "trafficScore": 67,
+    "vehicleSpeed": 60,
+    "delayMinutes": 72.51
+  },
+  {
+    "hour": 17,
+    "isWeekend": 1,
+    "distanceKm": 109.8,
+    "trafficScore": 39,
+    "vehicleSpeed": 45,
+    "delayMinutes": 90.02
+  },
+  {
+    "hour": 20,
+    "isWeekend": 0,
+    "distanceKm": 151.7,
+    "trafficScore": 72,
+    "vehicleSpeed": 45,
+    "delayMinutes": 199.91
+  },
+  {
+    "hour": 14,
+    "isWeekend": 1,
+    "distanceKm": 171.6,
+    "trafficScore": 66,
+    "vehicleSpeed": 40,
+    "delayMinutes": 155.65
+  },
+  {
+    "hour": 21,
+    "isWeekend": 1,
+    "distanceKm": 102.6,
+    "trafficScore": 65,
+    "vehicleSpeed": 40,
+    "delayMinutes": 120.18
+  },
+  {
+    "hour": 3,
+    "isWeekend": 1,
+    "distanceKm": 25.6,
+    "trafficScore": 47,
+    "vehicleSpeed": 60,
+    "delayMinutes": 7.72
+  },
+  {
+    "hour": 20,
+    "isWeekend": 0,
+    "distanceKm": 18.6,
+    "trafficScore": 62,
+    "vehicleSpeed": 40,
+    "delayMinutes": 27.57
+  },
+  {
+    "hour": 6,
+    "isWeekend": 0,
+    "distanceKm": 151.1,
+    "trafficScore": 90,
+    "vehicleSpeed": 40,
+    "delayMinutes": 156.42
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 148.2,
+    "trafficScore": 49,
+    "vehicleSpeed": 45,
+    "delayMinutes": 155.12
+  },
+  {
+    "hour": 19,
+    "isWeekend": 0,
+    "distanceKm": 57.1,
+    "trafficScore": 38,
+    "vehicleSpeed": 40,
+    "delayMinutes": 47.33
+  },
+  {
+    "hour": 17,
+    "isWeekend": 1,
+    "distanceKm": 145.7,
+    "trafficScore": 34,
+    "vehicleSpeed": 60,
+    "delayMinutes": 94.62
+  },
+  {
+    "hour": 11,
+    "isWeekend": 0,
+    "distanceKm": 110.1,
+    "trafficScore": 22,
+    "vehicleSpeed": 40,
+    "delayMinutes": 37.38
+  },
+  {
+    "hour": 8,
+    "isWeekend": 0,
+    "distanceKm": 31.5,
+    "trafficScore": 73,
+    "vehicleSpeed": 60,
+    "delayMinutes": 28.24
+  },
+  {
+    "hour": 14,
+    "isWeekend": 1,
+    "distanceKm": 97.3,
+    "trafficScore": 33,
+    "vehicleSpeed": 45,
+    "delayMinutes": 51.05
+  },
+  {
+    "hour": 16,
+    "isWeekend": 0,
+    "distanceKm": 170.7,
+    "trafficScore": 25,
+    "vehicleSpeed": 60,
+    "delayMinutes": 53.05
+  },
+  {
+    "hour": 16,
+    "isWeekend": 1,
+    "distanceKm": 87.9,
+    "trafficScore": 23,
+    "vehicleSpeed": 40,
+    "delayMinutes": 8.21
+  },
+  {
+    "hour": 15,
+    "isWeekend": 1,
+    "distanceKm": 82.5,
+    "trafficScore": 33,
+    "vehicleSpeed": 45,
+    "delayMinutes": 29.06
+  },
+  {
+    "hour": 2,
+    "isWeekend": 1,
+    "distanceKm": 113.4,
+    "trafficScore": 28,
+    "vehicleSpeed": 40,
+    "delayMinutes": 10.68
+  },
+  {
+    "hour": 8,
+    "isWeekend": 1,
+    "distanceKm": 74.8,
+    "trafficScore": 87,
+    "vehicleSpeed": 45,
+    "delayMinutes": 81.38
+  },
+  {
+    "hour": 3,
+    "isWeekend": 0,
+    "distanceKm": 155.0,
+    "trafficScore": 90,
+    "vehicleSpeed": 60,
+    "delayMinutes": 97.07
+  },
+  {
+    "hour": 6,
+    "isWeekend": 1,
+    "distanceKm": 86.8,
+    "trafficScore": 49,
+    "vehicleSpeed": 45,
+    "delayMinutes": 39.57
+  },
+  {
+    "hour": 13,
+    "isWeekend": 0,
+    "distanceKm": 63.1,
+    "trafficScore": 60,
+    "vehicleSpeed": 60,
+    "delayMinutes": 42.25
+  },
+  {
+    "hour": 8,
+    "isWeekend": 1,
+    "distanceKm": 172.1,
+    "trafficScore": 80,
+    "vehicleSpeed": 40,
+    "delayMinutes": 233.21
+  },
+  {
+    "hour": 13,
+    "isWeekend": 0,
+    "distanceKm": 136.6,
+    "trafficScore": 67,
+    "vehicleSpeed": 40,
+    "delayMinutes": 134.99
+  },
+  {
+    "hour": 17,
+    "isWeekend": 0,
+    "distanceKm": 109.7,
+    "trafficScore": 62,
+    "vehicleSpeed": 60,
+    "delayMinutes": 98.92
+  },
+  {
+    "hour": 21,
+    "isWeekend": 1,
+    "distanceKm": 157.6,
+    "trafficScore": 26,
+    "vehicleSpeed": 45,
+    "delayMinutes": 130.48
+  },
+  {
+    "hour": 19,
+    "isWeekend": 1,
+    "distanceKm": 69.8,
+    "trafficScore": 84,
+    "vehicleSpeed": 40,
+    "delayMinutes": 104.46
+  },
+  {
+    "hour": 3,
+    "isWeekend": 1,
+    "distanceKm": 153.7,
+    "trafficScore": 67,
+    "vehicleSpeed": 40,
+    "delayMinutes": 109.82
+  },
+  {
+    "hour": 8,
+    "isWeekend": 0,
+    "distanceKm": 147.2,
+    "trafficScore": 23,
+    "vehicleSpeed": 60,
+    "delayMinutes": 100.87
+  },
+  {
+    "hour": 8,
+    "isWeekend": 0,
+    "distanceKm": 40.7,
+    "trafficScore": 59,
+    "vehicleSpeed": 45,
+    "delayMinutes": 39.0
+  },
+  {
+    "hour": 11,
+    "isWeekend": 0,
+    "distanceKm": 40.8,
+    "trafficScore": 38,
+    "vehicleSpeed": 60,
+    "delayMinutes": 14.09
+  },
+  {
+    "hour": 23,
+    "isWeekend": 0,
+    "distanceKm": 25.6,
+    "trafficScore": 87,
+    "vehicleSpeed": 40,
+    "delayMinutes": 25.16
+  },
+  {
+    "hour": 12,
+    "isWeekend": 1,
+    "distanceKm": 87.1,
+    "trafficScore": 40,
+    "vehicleSpeed": 45,
+    "delayMinutes": 45.67
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 160.2,
+    "trafficScore": 39,
+    "vehicleSpeed": 40,
+    "delayMinutes": 183.61
+  },
+  {
+    "hour": 19,
+    "isWeekend": 0,
+    "distanceKm": 124.6,
+    "trafficScore": 54,
+    "vehicleSpeed": 45,
+    "delayMinutes": 124.19
+  },
+  {
+    "hour": 14,
+    "isWeekend": 1,
+    "distanceKm": 56.4,
+    "trafficScore": 85,
+    "vehicleSpeed": 40,
+    "delayMinutes": 53.64
+  },
+  {
+    "hour": 11,
+    "isWeekend": 1,
+    "distanceKm": 28.9,
+    "trafficScore": 82,
+    "vehicleSpeed": 60,
+    "delayMinutes": 17.08
+  },
+  {
+    "hour": 12,
+    "isWeekend": 0,
+    "distanceKm": 11.3,
+    "trafficScore": 58,
+    "vehicleSpeed": 40,
+    "delayMinutes": 9.51
+  },
+  {
+    "hour": 4,
+    "isWeekend": 1,
+    "distanceKm": 59.2,
+    "trafficScore": 35,
+    "vehicleSpeed": 40,
+    "delayMinutes": 9.55
+  },
+  {
+    "hour": 4,
+    "isWeekend": 1,
+    "distanceKm": 100.5,
+    "trafficScore": 49,
+    "vehicleSpeed": 60,
+    "delayMinutes": 28.63
+  },
+  {
+    "hour": 17,
+    "isWeekend": 1,
+    "distanceKm": 22.3,
+    "trafficScore": 25,
+    "vehicleSpeed": 45,
+    "delayMinutes": 22.05
+  },
+  {
+    "hour": 10,
+    "isWeekend": 1,
+    "distanceKm": 107.5,
+    "trafficScore": 73,
+    "vehicleSpeed": 45,
+    "delayMinutes": 121.93
+  },
+  {
+    "hour": 3,
+    "isWeekend": 1,
+    "distanceKm": 13.5,
+    "trafficScore": 61,
+    "vehicleSpeed": 40,
+    "delayMinutes": 8.03
+  },
+  {
+    "hour": 22,
+    "isWeekend": 1,
+    "distanceKm": 25.0,
+    "trafficScore": 33,
+    "vehicleSpeed": 40,
+    "delayMinutes": 6.72
+  },
+  {
+    "hour": 13,
+    "isWeekend": 1,
+    "distanceKm": 99.1,
+    "trafficScore": 70,
+    "vehicleSpeed": 45,
+    "delayMinutes": 81.06
+  },
+  {
+    "hour": 5,
+    "isWeekend": 0,
+    "distanceKm": 96.8,
+    "trafficScore": 34,
+    "vehicleSpeed": 60,
+    "delayMinutes": 16.88
+  },
+  {
+    "hour": 16,
+    "isWeekend": 0,
+    "distanceKm": 164.0,
+    "trafficScore": 64,
+    "vehicleSpeed": 45,
+    "delayMinutes": 111.53
+  },
+  {
+    "hour": 4,
+    "isWeekend": 0,
+    "distanceKm": 27.5,
+    "trafficScore": 52,
+    "vehicleSpeed": 40,
+    "delayMinutes": 8.32
+  },
+  {
+    "hour": 5,
+    "isWeekend": 0,
+    "distanceKm": 139.2,
+    "trafficScore": 29,
+    "vehicleSpeed": 40,
+    "delayMinutes": 63.84
+  },
+  {
+    "hour": 14,
+    "isWeekend": 1,
+    "distanceKm": 125.8,
+    "trafficScore": 61,
+    "vehicleSpeed": 60,
+    "delayMinutes": 65.74
+  },
+  {
+    "hour": 10,
+    "isWeekend": 0,
+    "distanceKm": 84.8,
+    "trafficScore": 80,
+    "vehicleSpeed": 45,
+    "delayMinutes": 93.08
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 69.8,
+    "trafficScore": 29,
+    "vehicleSpeed": 45,
+    "delayMinutes": 49.2
+  },
+  {
+    "hour": 14,
+    "isWeekend": 1,
+    "distanceKm": 16.4,
+    "trafficScore": 67,
+    "vehicleSpeed": 45,
+    "delayMinutes": 16.12
+  },
+  {
+    "hour": 2,
+    "isWeekend": 1,
+    "distanceKm": 88.7,
+    "trafficScore": 90,
+    "vehicleSpeed": 60,
+    "delayMinutes": 55.36
+  },
+  {
+    "hour": 1,
+    "isWeekend": 1,
+    "distanceKm": 164.5,
+    "trafficScore": 44,
+    "vehicleSpeed": 45,
+    "delayMinutes": 38.7
+  },
+  {
+    "hour": 1,
+    "isWeekend": 1,
+    "distanceKm": 27.6,
+    "trafficScore": 63,
+    "vehicleSpeed": 60,
+    "delayMinutes": 8.74
+  },
+  {
+    "hour": 2,
+    "isWeekend": 0,
+    "distanceKm": 16.7,
+    "trafficScore": 76,
+    "vehicleSpeed": 45,
+    "delayMinutes": 8.81
+  },
+  {
+    "hour": 11,
+    "isWeekend": 1,
+    "distanceKm": 166.0,
+    "trafficScore": 69,
+    "vehicleSpeed": 45,
+    "delayMinutes": 111.1
+  },
+  {
+    "hour": 10,
+    "isWeekend": 0,
+    "distanceKm": 144.2,
+    "trafficScore": 62,
+    "vehicleSpeed": 40,
+    "delayMinutes": 163.07
+  },
+  {
+    "hour": 12,
+    "isWeekend": 1,
+    "distanceKm": 52.8,
+    "trafficScore": 39,
+    "vehicleSpeed": 45,
+    "delayMinutes": 35.42
+  },
+  {
+    "hour": 2,
+    "isWeekend": 0,
+    "distanceKm": 165.8,
+    "trafficScore": 59,
+    "vehicleSpeed": 60,
+    "delayMinutes": 61.03
+  },
+  {
+    "hour": 19,
+    "isWeekend": 0,
+    "distanceKm": 62.6,
+    "trafficScore": 68,
+    "vehicleSpeed": 60,
+    "delayMinutes": 50.79
+  },
+  {
+    "hour": 10,
+    "isWeekend": 0,
+    "distanceKm": 123.9,
+    "trafficScore": 87,
+    "vehicleSpeed": 40,
+    "delayMinutes": 169.95
+  },
+  {
+    "hour": 11,
+    "isWeekend": 0,
+    "distanceKm": 71.6,
+    "trafficScore": 43,
+    "vehicleSpeed": 40,
+    "delayMinutes": 35.21
+  },
+  {
+    "hour": 10,
+    "isWeekend": 1,
+    "distanceKm": 42.6,
+    "trafficScore": 37,
+    "vehicleSpeed": 40,
+    "delayMinutes": 46.78
+  },
+  {
+    "hour": 3,
+    "isWeekend": 0,
+    "distanceKm": 122.5,
+    "trafficScore": 36,
+    "vehicleSpeed": 60,
+    "delayMinutes": 38.7
+  },
+  {
+    "hour": 12,
+    "isWeekend": 0,
+    "distanceKm": 37.6,
+    "trafficScore": 41,
+    "vehicleSpeed": 60,
+    "delayMinutes": 14.87
+  },
+  {
+    "hour": 21,
+    "isWeekend": 0,
+    "distanceKm": 174.8,
+    "trafficScore": 56,
+    "vehicleSpeed": 60,
+    "delayMinutes": 146.9
+  },
+  {
+    "hour": 14,
+    "isWeekend": 0,
+    "distanceKm": 100.8,
+    "trafficScore": 59,
+    "vehicleSpeed": 45,
+    "delayMinutes": 84.91
+  },
+  {
+    "hour": 21,
+    "isWeekend": 1,
+    "distanceKm": 88.5,
+    "trafficScore": 56,
+    "vehicleSpeed": 45,
+    "delayMinutes": 86.63
+  },
+  {
+    "hour": 16,
+    "isWeekend": 1,
+    "distanceKm": 174.3,
+    "trafficScore": 45,
+    "vehicleSpeed": 60,
+    "delayMinutes": 70.01
+  },
+  {
+    "hour": 20,
+    "isWeekend": 1,
+    "distanceKm": 158.6,
+    "trafficScore": 90,
+    "vehicleSpeed": 40,
+    "delayMinutes": 245.36
+  },
+  {
+    "hour": 22,
+    "isWeekend": 0,
+    "distanceKm": 58.5,
+    "trafficScore": 40,
+    "vehicleSpeed": 45,
+    "delayMinutes": 22.14
+  },
+  {
+    "hour": 13,
+    "isWeekend": 0,
+    "distanceKm": 170.9,
+    "trafficScore": 48,
+    "vehicleSpeed": 45,
+    "delayMinutes": 124.66
+  },
+  {
+    "hour": 11,
+    "isWeekend": 0,
+    "distanceKm": 80.5,
+    "trafficScore": 70,
+    "vehicleSpeed": 60,
+    "delayMinutes": 41.42
+  },
+  {
+    "hour": 2,
+    "isWeekend": 1,
+    "distanceKm": 48.2,
+    "trafficScore": 60,
+    "vehicleSpeed": 40,
+    "delayMinutes": 29.73
+  },
+  {
+    "hour": 22,
+    "isWeekend": 1,
+    "distanceKm": 144.5,
+    "trafficScore": 37,
+    "vehicleSpeed": 40,
+    "delayMinutes": 59.81
+  },
+  {
+    "hour": 22,
+    "isWeekend": 0,
+    "distanceKm": 139.0,
+    "trafficScore": 80,
+    "vehicleSpeed": 45,
+    "delayMinutes": 144.84
+  },
+  {
+    "hour": 19,
+    "isWeekend": 0,
+    "distanceKm": 164.0,
+    "trafficScore": 22,
+    "vehicleSpeed": 45,
+    "delayMinutes": 130.71
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 28.9,
+    "trafficScore": 56,
+    "vehicleSpeed": 40,
+    "delayMinutes": 20.74
+  },
+  {
+    "hour": 9,
+    "isWeekend": 0,
+    "distanceKm": 18.1,
+    "trafficScore": 73,
+    "vehicleSpeed": 60,
+    "delayMinutes": 16.26
+  },
+  {
+    "hour": 3,
+    "isWeekend": 1,
+    "distanceKm": 111.4,
+    "trafficScore": 22,
+    "vehicleSpeed": 60,
+    "delayMinutes": 3.34
+  },
+  {
+    "hour": 16,
+    "isWeekend": 0,
+    "distanceKm": 132.2,
+    "trafficScore": 57,
+    "vehicleSpeed": 45,
+    "delayMinutes": 98.73
+  },
+  {
+    "hour": 18,
+    "isWeekend": 1,
+    "distanceKm": 41.8,
+    "trafficScore": 30,
+    "vehicleSpeed": 60,
+    "delayMinutes": 24.9
+  },
+  {
+    "hour": 11,
+    "isWeekend": 0,
+    "distanceKm": 172.1,
+    "trafficScore": 89,
+    "vehicleSpeed": 60,
+    "delayMinutes": 123.07
+  },
+  {
+    "hour": 0,
+    "isWeekend": 1,
+    "distanceKm": 158.5,
+    "trafficScore": 25,
+    "vehicleSpeed": 60,
+    "delayMinutes": 5.51
+  },
+  {
+    "hour": 12,
+    "isWeekend": 1,
+    "distanceKm": 53.1,
+    "trafficScore": 22,
+    "vehicleSpeed": 45,
+    "delayMinutes": 22.7
+  },
+  {
+    "hour": 23,
+    "isWeekend": 0,
+    "distanceKm": 141.2,
+    "trafficScore": 62,
+    "vehicleSpeed": 40,
+    "delayMinutes": 94.59
+  },
+  {
+    "hour": 1,
+    "isWeekend": 1,
+    "distanceKm": 102.8,
+    "trafficScore": 42,
+    "vehicleSpeed": 60,
+    "delayMinutes": 12.1
+  },
+  {
+    "hour": 20,
+    "isWeekend": 0,
+    "distanceKm": 148.0,
+    "trafficScore": 28,
+    "vehicleSpeed": 60,
+    "delayMinutes": 96.82
+  },
+  {
+    "hour": 14,
+    "isWeekend": 0,
+    "distanceKm": 59.9,
+    "trafficScore": 25,
+    "vehicleSpeed": 40,
+    "delayMinutes": 37.74
+  },
+  {
+    "hour": 9,
+    "isWeekend": 1,
+    "distanceKm": 178.2,
+    "trafficScore": 89,
+    "vehicleSpeed": 45,
+    "delayMinutes": 210.91
+  },
+  {
+    "hour": 8,
+    "isWeekend": 0,
+    "distanceKm": 138.1,
+    "trafficScore": 44,
+    "vehicleSpeed": 45,
+    "delayMinutes": 110.33
+  },
+  {
+    "hour": 20,
+    "isWeekend": 1,
+    "distanceKm": 56.4,
+    "trafficScore": 67,
+    "vehicleSpeed": 45,
+    "delayMinutes": 71.03
+  },
+  {
+    "hour": 12,
+    "isWeekend": 1,
+    "distanceKm": 162.1,
+    "trafficScore": 69,
+    "vehicleSpeed": 45,
+    "delayMinutes": 151.49
+  },
+  {
+    "hour": 15,
+    "isWeekend": 1,
+    "distanceKm": 167.1,
+    "trafficScore": 86,
+    "vehicleSpeed": 45,
+    "delayMinutes": 136.71
+  },
+  {
+    "hour": 2,
+    "isWeekend": 1,
+    "distanceKm": 23.4,
+    "trafficScore": 43,
+    "vehicleSpeed": 60,
+    "delayMinutes": 5.48
+  },
+  {
+    "hour": 10,
+    "isWeekend": 1,
+    "distanceKm": 62.1,
+    "trafficScore": 74,
+    "vehicleSpeed": 40,
+    "delayMinutes": 81.21
+  },
+  {
+    "hour": 22,
+    "isWeekend": 1,
+    "distanceKm": 69.8,
+    "trafficScore": 25,
+    "vehicleSpeed": 60,
+    "delayMinutes": 19.79
+  },
+  {
+    "hour": 13,
+    "isWeekend": 1,
+    "distanceKm": 118.7,
+    "trafficScore": 27,
+    "vehicleSpeed": 40,
+    "delayMinutes": 50.06
+  },
+  {
+    "hour": 21,
+    "isWeekend": 1,
+    "distanceKm": 71.8,
+    "trafficScore": 40,
+    "vehicleSpeed": 40,
+    "delayMinutes": 78.43
+  },
+  {
+    "hour": 14,
+    "isWeekend": 0,
+    "distanceKm": 31.5,
+    "trafficScore": 50,
+    "vehicleSpeed": 60,
+    "delayMinutes": 19.39
+  },
+  {
+    "hour": 11,
+    "isWeekend": 1,
+    "distanceKm": 75.1,
+    "trafficScore": 24,
+    "vehicleSpeed": 60,
+    "delayMinutes": 20.72
+  },
+  {
+    "hour": 11,
+    "isWeekend": 1,
+    "distanceKm": 85.5,
+    "trafficScore": 29,
+    "vehicleSpeed": 60,
+    "delayMinutes": 28.25
+  },
+  {
+    "hour": 4,
+    "isWeekend": 1,
+    "distanceKm": 77.7,
+    "trafficScore": 55,
+    "vehicleSpeed": 40,
+    "delayMinutes": 39.66
+  },
+  {
+    "hour": 5,
+    "isWeekend": 1,
+    "distanceKm": 98.0,
+    "trafficScore": 35,
+    "vehicleSpeed": 45,
+    "delayMinutes": 24.57
+  },
+  {
+    "hour": 8,
+    "isWeekend": 1,
+    "distanceKm": 46.5,
+    "trafficScore": 56,
+    "vehicleSpeed": 60,
+    "delayMinutes": 37.18
+  },
+  {
+    "hour": 3,
+    "isWeekend": 0,
+    "distanceKm": 155.0,
+    "trafficScore": 77,
+    "vehicleSpeed": 40,
+    "delayMinutes": 107.86
+  },
+  {
+    "hour": 22,
+    "isWeekend": 1,
+    "distanceKm": 179.5,
+    "trafficScore": 60,
+    "vehicleSpeed": 60,
+    "delayMinutes": 79.55
+  },
+  {
+    "hour": 17,
+    "isWeekend": 1,
+    "distanceKm": 161.5,
+    "trafficScore": 40,
+    "vehicleSpeed": 60,
+    "delayMinutes": 110.46
+  },
+  {
+    "hour": 22,
+    "isWeekend": 0,
+    "distanceKm": 144.9,
+    "trafficScore": 85,
+    "vehicleSpeed": 40,
+    "delayMinutes": 153.5
+  },
+  {
+    "hour": 4,
+    "isWeekend": 0,
+    "distanceKm": 144.4,
+    "trafficScore": 23,
+    "vehicleSpeed": 45,
+    "delayMinutes": 37.84
+  },
+  {
+    "hour": 17,
+    "isWeekend": 1,
+    "distanceKm": 89.5,
+    "trafficScore": 90,
+    "vehicleSpeed": 40,
+    "delayMinutes": 128.76
+  },
+  {
+    "hour": 9,
+    "isWeekend": 1,
+    "distanceKm": 179.9,
+    "trafficScore": 81,
+    "vehicleSpeed": 60,
+    "delayMinutes": 154.63
+  },
+  {
+    "hour": 13,
+    "isWeekend": 1,
+    "distanceKm": 150.0,
+    "trafficScore": 29,
+    "vehicleSpeed": 40,
+    "delayMinutes": 103.84
+  },
+  {
+    "hour": 14,
+    "isWeekend": 1,
+    "distanceKm": 125.6,
+    "trafficScore": 64,
+    "vehicleSpeed": 40,
+    "delayMinutes": 104.79
+  },
+  {
+    "hour": 17,
+    "isWeekend": 0,
+    "distanceKm": 140.5,
+    "trafficScore": 36,
+    "vehicleSpeed": 45,
+    "delayMinutes": 97.03
+  },
+  {
+    "hour": 3,
+    "isWeekend": 0,
+    "distanceKm": 61.7,
+    "trafficScore": 40,
+    "vehicleSpeed": 45,
+    "delayMinutes": 21.97
+  },
+  {
+    "hour": 22,
+    "isWeekend": 0,
+    "distanceKm": 68.8,
+    "trafficScore": 86,
+    "vehicleSpeed": 45,
+    "delayMinutes": 64.99
+  },
+  {
+    "hour": 20,
+    "isWeekend": 1,
+    "distanceKm": 31.3,
+    "trafficScore": 58,
+    "vehicleSpeed": 60,
+    "delayMinutes": 22.75
+  },
+  {
+    "hour": 17,
+    "isWeekend": 0,
+    "distanceKm": 95.4,
+    "trafficScore": 41,
+    "vehicleSpeed": 60,
+    "delayMinutes": 72.0
+  },
+  {
+    "hour": 21,
+    "isWeekend": 1,
+    "distanceKm": 153.2,
+    "trafficScore": 25,
+    "vehicleSpeed": 40,
+    "delayMinutes": 125.45
+  },
+  {
+    "hour": 2,
+    "isWeekend": 0,
+    "distanceKm": 171.3,
+    "trafficScore": 53,
+    "vehicleSpeed": 60,
+    "delayMinutes": 65.08
+  },
+  {
+    "hour": 19,
+    "isWeekend": 0,
+    "distanceKm": 94.7,
+    "trafficScore": 89,
+    "vehicleSpeed": 45,
+    "delayMinutes": 142.0
+  },
+  {
+    "hour": 20,
+    "isWeekend": 1,
+    "distanceKm": 92.1,
+    "trafficScore": 71,
+    "vehicleSpeed": 45,
+    "delayMinutes": 91.42
+  },
+  {
+    "hour": 5,
+    "isWeekend": 1,
+    "distanceKm": 80.7,
+    "trafficScore": 79,
+    "vehicleSpeed": 40,
+    "delayMinutes": 62.18
+  },
+  {
+    "hour": 10,
+    "isWeekend": 0,
+    "distanceKm": 63.1,
+    "trafficScore": 60,
+    "vehicleSpeed": 60,
+    "delayMinutes": 54.48
+  },
+  {
+    "hour": 12,
+    "isWeekend": 0,
+    "distanceKm": 139.3,
+    "trafficScore": 85,
+    "vehicleSpeed": 60,
+    "delayMinutes": 104.75
+  },
+  {
+    "hour": 3,
+    "isWeekend": 1,
+    "distanceKm": 51.1,
+    "trafficScore": 35,
+    "vehicleSpeed": 45,
+    "delayMinutes": 10.26
+  },
+  {
+    "hour": 1,
+    "isWeekend": 1,
+    "distanceKm": 170.7,
+    "trafficScore": 73,
+    "vehicleSpeed": 40,
+    "delayMinutes": 116.05
+  },
+  {
+    "hour": 5,
+    "isWeekend": 1,
+    "distanceKm": 168.7,
+    "trafficScore": 60,
+    "vehicleSpeed": 40,
+    "delayMinutes": 91.79
+  },
+  {
+    "hour": 16,
+    "isWeekend": 1,
+    "distanceKm": 94.8,
+    "trafficScore": 59,
+    "vehicleSpeed": 45,
+    "delayMinutes": 45.49
+  },
+  {
+    "hour": 0,
+    "isWeekend": 0,
+    "distanceKm": 170.7,
+    "trafficScore": 84,
+    "vehicleSpeed": 45,
+    "delayMinutes": 138.94
+  },
+  {
+    "hour": 11,
+    "isWeekend": 0,
+    "distanceKm": 18.6,
+    "trafficScore": 83,
+    "vehicleSpeed": 60,
+    "delayMinutes": 11.96
+  },
+  {
+    "hour": 20,
+    "isWeekend": 1,
+    "distanceKm": 58.6,
+    "trafficScore": 21,
+    "vehicleSpeed": 40,
+    "delayMinutes": 33.96
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 139.9,
+    "trafficScore": 66,
+    "vehicleSpeed": 40,
+    "delayMinutes": 119.32
+  },
+  {
+    "hour": 12,
+    "isWeekend": 0,
+    "distanceKm": 106.9,
+    "trafficScore": 44,
+    "vehicleSpeed": 45,
+    "delayMinutes": 65.77
+  },
+  {
+    "hour": 16,
+    "isWeekend": 1,
+    "distanceKm": 139.9,
+    "trafficScore": 55,
+    "vehicleSpeed": 60,
+    "delayMinutes": 58.37
+  },
+  {
+    "hour": 21,
+    "isWeekend": 0,
+    "distanceKm": 31.9,
+    "trafficScore": 32,
+    "vehicleSpeed": 45,
+    "delayMinutes": 20.78
+  },
+  {
+    "hour": 17,
+    "isWeekend": 1,
+    "distanceKm": 138.3,
+    "trafficScore": 45,
+    "vehicleSpeed": 60,
+    "delayMinutes": 119.05
+  },
+  {
+    "hour": 16,
+    "isWeekend": 1,
+    "distanceKm": 95.0,
+    "trafficScore": 25,
+    "vehicleSpeed": 40,
+    "delayMinutes": 39.82
+  },
+  {
+    "hour": 15,
+    "isWeekend": 1,
+    "distanceKm": 35.3,
+    "trafficScore": 85,
+    "vehicleSpeed": 40,
+    "delayMinutes": 35.85
+  },
+  {
+    "hour": 10,
+    "isWeekend": 1,
+    "distanceKm": 37.6,
+    "trafficScore": 58,
+    "vehicleSpeed": 60,
+    "delayMinutes": 24.61
+  },
+  {
+    "hour": 17,
+    "isWeekend": 1,
+    "distanceKm": 130.5,
+    "trafficScore": 58,
+    "vehicleSpeed": 45,
+    "delayMinutes": 157.57
+  },
+  {
+    "hour": 0,
+    "isWeekend": 1,
+    "distanceKm": 66.3,
+    "trafficScore": 34,
+    "vehicleSpeed": 45,
+    "delayMinutes": 5.52
+  },
+  {
+    "hour": 23,
+    "isWeekend": 0,
+    "distanceKm": 111.5,
+    "trafficScore": 53,
+    "vehicleSpeed": 60,
+    "delayMinutes": 43.24
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 132.6,
+    "trafficScore": 81,
+    "vehicleSpeed": 40,
+    "delayMinutes": 168.09
+  },
+  {
+    "hour": 12,
+    "isWeekend": 0,
+    "distanceKm": 149.7,
+    "trafficScore": 51,
+    "vehicleSpeed": 40,
+    "delayMinutes": 116.12
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 42.4,
+    "trafficScore": 76,
+    "vehicleSpeed": 45,
+    "delayMinutes": 49.01
+  },
+  {
+    "hour": 6,
+    "isWeekend": 1,
+    "distanceKm": 95.3,
+    "trafficScore": 80,
+    "vehicleSpeed": 60,
+    "delayMinutes": 60.07
+  },
+  {
+    "hour": 23,
+    "isWeekend": 0,
+    "distanceKm": 130.0,
+    "trafficScore": 86,
+    "vehicleSpeed": 40,
+    "delayMinutes": 80.15
+  },
+  {
+    "hour": 15,
+    "isWeekend": 1,
+    "distanceKm": 63.3,
+    "trafficScore": 42,
+    "vehicleSpeed": 45,
+    "delayMinutes": 20.02
+  },
+  {
+    "hour": 17,
+    "isWeekend": 1,
+    "distanceKm": 102.9,
+    "trafficScore": 53,
+    "vehicleSpeed": 60,
+    "delayMinutes": 56.03
+  },
+  {
+    "hour": 8,
+    "isWeekend": 1,
+    "distanceKm": 48.2,
+    "trafficScore": 58,
+    "vehicleSpeed": 45,
+    "delayMinutes": 48.32
+  },
+  {
+    "hour": 22,
+    "isWeekend": 0,
+    "distanceKm": 127.3,
+    "trafficScore": 82,
+    "vehicleSpeed": 45,
+    "delayMinutes": 92.72
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 58.9,
+    "trafficScore": 89,
+    "vehicleSpeed": 45,
+    "delayMinutes": 51.95
+  },
+  {
+    "hour": 12,
+    "isWeekend": 1,
+    "distanceKm": 172.3,
+    "trafficScore": 38,
+    "vehicleSpeed": 45,
+    "delayMinutes": 137.73
+  },
+  {
+    "hour": 2,
+    "isWeekend": 1,
+    "distanceKm": 167.1,
+    "trafficScore": 52,
+    "vehicleSpeed": 60,
+    "delayMinutes": 59.34
+  },
+  {
+    "hour": 15,
+    "isWeekend": 0,
+    "distanceKm": 44.4,
+    "trafficScore": 88,
+    "vehicleSpeed": 45,
+    "delayMinutes": 47.34
+  },
+  {
+    "hour": 4,
+    "isWeekend": 0,
+    "distanceKm": 114.7,
+    "trafficScore": 50,
+    "vehicleSpeed": 40,
+    "delayMinutes": 48.96
+  },
+  {
+    "hour": 1,
+    "isWeekend": 0,
+    "distanceKm": 118.5,
+    "trafficScore": 26,
+    "vehicleSpeed": 40,
+    "delayMinutes": 12.48
+  },
+  {
+    "hour": 3,
+    "isWeekend": 0,
+    "distanceKm": 10.9,
+    "trafficScore": 90,
+    "vehicleSpeed": 40,
+    "delayMinutes": 10.81
+  },
+  {
+    "hour": 13,
+    "isWeekend": 1,
+    "distanceKm": 91.2,
+    "trafficScore": 45,
+    "vehicleSpeed": 45,
+    "delayMinutes": 48.96
+  },
+  {
+    "hour": 2,
+    "isWeekend": 0,
+    "distanceKm": 101.0,
+    "trafficScore": 24,
+    "vehicleSpeed": 40,
+    "delayMinutes": 40.9
+  },
+  {
+    "hour": 13,
+    "isWeekend": 0,
+    "distanceKm": 168.8,
+    "trafficScore": 24,
+    "vehicleSpeed": 45,
+    "delayMinutes": 83.98
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 159.0,
+    "trafficScore": 21,
+    "vehicleSpeed": 45,
+    "delayMinutes": 33.2
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 167.8,
+    "trafficScore": 62,
+    "vehicleSpeed": 45,
+    "delayMinutes": 165.14
+  },
+  {
+    "hour": 16,
+    "isWeekend": 1,
+    "distanceKm": 161.2,
+    "trafficScore": 37,
+    "vehicleSpeed": 60,
+    "delayMinutes": 55.28
+  },
+  {
+    "hour": 14,
+    "isWeekend": 1,
+    "distanceKm": 42.8,
+    "trafficScore": 34,
+    "vehicleSpeed": 45,
+    "delayMinutes": 24.39
+  },
+  {
+    "hour": 8,
+    "isWeekend": 0,
+    "distanceKm": 12.4,
+    "trafficScore": 63,
+    "vehicleSpeed": 45,
+    "delayMinutes": 14.63
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 39.8,
+    "trafficScore": 71,
+    "vehicleSpeed": 45,
+    "delayMinutes": 46.3
+  },
+  {
+    "hour": 21,
+    "isWeekend": 0,
+    "distanceKm": 41.4,
+    "trafficScore": 37,
+    "vehicleSpeed": 45,
+    "delayMinutes": 37.66
+  },
+  {
+    "hour": 10,
+    "isWeekend": 0,
+    "distanceKm": 11.2,
+    "trafficScore": 69,
+    "vehicleSpeed": 40,
+    "delayMinutes": 13.25
+  },
+  {
+    "hour": 10,
+    "isWeekend": 1,
+    "distanceKm": 109.0,
+    "trafficScore": 21,
+    "vehicleSpeed": 45,
+    "delayMinutes": 74.44
+  },
+  {
+    "hour": 20,
+    "isWeekend": 1,
+    "distanceKm": 127.8,
+    "trafficScore": 27,
+    "vehicleSpeed": 60,
+    "delayMinutes": 80.0
+  },
+  {
+    "hour": 12,
+    "isWeekend": 1,
+    "distanceKm": 127.3,
+    "trafficScore": 57,
+    "vehicleSpeed": 45,
+    "delayMinutes": 97.91
+  },
+  {
+    "hour": 19,
+    "isWeekend": 0,
+    "distanceKm": 47.3,
+    "trafficScore": 37,
+    "vehicleSpeed": 45,
+    "delayMinutes": 48.02
+  },
+  {
+    "hour": 19,
+    "isWeekend": 1,
+    "distanceKm": 80.7,
+    "trafficScore": 90,
+    "vehicleSpeed": 45,
+    "delayMinutes": 117.71
+  },
+  {
+    "hour": 17,
+    "isWeekend": 0,
+    "distanceKm": 139.5,
+    "trafficScore": 30,
+    "vehicleSpeed": 60,
+    "delayMinutes": 72.84
+  },
+  {
+    "hour": 2,
+    "isWeekend": 0,
+    "distanceKm": 20.5,
+    "trafficScore": 90,
+    "vehicleSpeed": 60,
+    "delayMinutes": 13.04
+  },
+  {
+    "hour": 6,
+    "isWeekend": 0,
+    "distanceKm": 38.0,
+    "trafficScore": 86,
+    "vehicleSpeed": 45,
+    "delayMinutes": 36.2
+  },
+  {
+    "hour": 18,
+    "isWeekend": 1,
+    "distanceKm": 25.5,
+    "trafficScore": 85,
+    "vehicleSpeed": 45,
+    "delayMinutes": 33.62
+  },
+  {
+    "hour": 1,
+    "isWeekend": 1,
+    "distanceKm": 32.4,
+    "trafficScore": 73,
+    "vehicleSpeed": 45,
+    "delayMinutes": 14.92
+  },
+  {
+    "hour": 21,
+    "isWeekend": 1,
+    "distanceKm": 133.0,
+    "trafficScore": 70,
+    "vehicleSpeed": 45,
+    "delayMinutes": 144.53
+  },
+  {
+    "hour": 0,
+    "isWeekend": 0,
+    "distanceKm": 108.3,
+    "trafficScore": 25,
+    "vehicleSpeed": 45,
+    "delayMinutes": 22.56
+  },
+  {
+    "hour": 1,
+    "isWeekend": 0,
+    "distanceKm": 177.6,
+    "trafficScore": 80,
+    "vehicleSpeed": 40,
+    "delayMinutes": 147.6
+  },
+  {
+    "hour": 9,
+    "isWeekend": 1,
+    "distanceKm": 40.6,
+    "trafficScore": 37,
+    "vehicleSpeed": 60,
+    "delayMinutes": 28.81
+  },
+  {
+    "hour": 13,
+    "isWeekend": 1,
+    "distanceKm": 178.8,
+    "trafficScore": 68,
+    "vehicleSpeed": 45,
+    "delayMinutes": 139.79
+  },
+  {
+    "hour": 12,
+    "isWeekend": 1,
+    "distanceKm": 23.6,
+    "trafficScore": 89,
+    "vehicleSpeed": 40,
+    "delayMinutes": 24.65
+  },
+  {
+    "hour": 5,
+    "isWeekend": 1,
+    "distanceKm": 99.9,
+    "trafficScore": 48,
+    "vehicleSpeed": 40,
+    "delayMinutes": 32.4
+  },
+  {
+    "hour": 0,
+    "isWeekend": 1,
+    "distanceKm": 88.7,
+    "trafficScore": 89,
+    "vehicleSpeed": 45,
+    "delayMinutes": 47.01
+  },
+  {
+    "hour": 7,
+    "isWeekend": 1,
+    "distanceKm": 68.8,
+    "trafficScore": 55,
+    "vehicleSpeed": 40,
+    "delayMinutes": 70.47
+  },
+  {
+    "hour": 23,
+    "isWeekend": 0,
+    "distanceKm": 15.5,
+    "trafficScore": 73,
+    "vehicleSpeed": 60,
+    "delayMinutes": 9.4
+  },
+  {
+    "hour": 0,
+    "isWeekend": 0,
+    "distanceKm": 45.0,
+    "trafficScore": 32,
+    "vehicleSpeed": 60,
+    "delayMinutes": 2.38
+  },
+  {
+    "hour": 1,
+    "isWeekend": 1,
+    "distanceKm": 111.6,
+    "trafficScore": 26,
+    "vehicleSpeed": 40,
+    "delayMinutes": 21.62
+  },
+  {
+    "hour": 7,
+    "isWeekend": 0,
+    "distanceKm": 138.2,
+    "trafficScore": 27,
+    "vehicleSpeed": 40,
+    "delayMinutes": 102.51
+  },
+  {
+    "hour": 16,
+    "isWeekend": 1,
+    "distanceKm": 49.8,
+    "trafficScore": 60,
+    "vehicleSpeed": 60,
+    "delayMinutes": 18.05
+  },
+  {
+    "hour": 10,
+    "isWeekend": 0,
+    "distanceKm": 61.3,
+    "trafficScore": 38,
+    "vehicleSpeed": 60,
+    "delayMinutes": 35.43
+  },
+  {
+    "hour": 16,
+    "isWeekend": 0,
+    "distanceKm": 80.3,
+    "trafficScore": 55,
+    "vehicleSpeed": 40,
+    "delayMinutes": 44.83
+  },
+  {
+    "hour": 23,
+    "isWeekend": 0,
+    "distanceKm": 116.4,
+    "trafficScore": 74,
+    "vehicleSpeed": 60,
+    "delayMinutes": 65.03
+  },
+  {
+    "hour": 15,
+    "isWeekend": 0,
+    "distanceKm": 175.3,
+    "trafficScore": 68,
+    "vehicleSpeed": 60,
+    "delayMinutes": 91.55
+  },
+  {
+    "hour": 4,
+    "isWeekend": 1,
+    "distanceKm": 74.0,
+    "trafficScore": 88,
+    "vehicleSpeed": 45,
+    "delayMinutes": 60.42
+  },
+  {
+    "hour": 7,
+    "isWeekend": 0,
+    "distanceKm": 61.1,
+    "trafficScore": 38,
+    "vehicleSpeed": 45,
+    "delayMinutes": 59.91
+  },
+  {
+    "hour": 13,
+    "isWeekend": 0,
+    "distanceKm": 76.0,
+    "trafficScore": 52,
+    "vehicleSpeed": 40,
+    "delayMinutes": 55.92
+  },
+  {
+    "hour": 10,
+    "isWeekend": 0,
+    "distanceKm": 166.8,
+    "trafficScore": 67,
+    "vehicleSpeed": 40,
+    "delayMinutes": 172.34
+  },
+  {
+    "hour": 1,
+    "isWeekend": 1,
+    "distanceKm": 74.1,
+    "trafficScore": 25,
+    "vehicleSpeed": 40,
+    "delayMinutes": 10.46
+  },
+  {
+    "hour": 6,
+    "isWeekend": 0,
+    "distanceKm": 91.5,
+    "trafficScore": 62,
+    "vehicleSpeed": 45,
+    "delayMinutes": 64.85
+  },
+  {
+    "hour": 6,
+    "isWeekend": 0,
+    "distanceKm": 137.0,
+    "trafficScore": 81,
+    "vehicleSpeed": 40,
+    "delayMinutes": 131.06
+  },
+  {
+    "hour": 22,
+    "isWeekend": 0,
+    "distanceKm": 77.4,
+    "trafficScore": 50,
+    "vehicleSpeed": 60,
+    "delayMinutes": 31.86
+  },
+  {
+    "hour": 14,
+    "isWeekend": 1,
+    "distanceKm": 62.4,
+    "trafficScore": 66,
+    "vehicleSpeed": 60,
+    "delayMinutes": 40.42
+  },
+  {
+    "hour": 15,
+    "isWeekend": 1,
+    "distanceKm": 26.8,
+    "trafficScore": 80,
+    "vehicleSpeed": 45,
+    "delayMinutes": 23.44
+  },
+  {
+    "hour": 13,
+    "isWeekend": 0,
+    "distanceKm": 105.6,
+    "trafficScore": 48,
+    "vehicleSpeed": 60,
+    "delayMinutes": 50.43
+  },
+  {
+    "hour": 4,
+    "isWeekend": 0,
+    "distanceKm": 54.3,
+    "trafficScore": 73,
+    "vehicleSpeed": 45,
+    "delayMinutes": 38.06
+  },
+  {
+    "hour": 12,
+    "isWeekend": 0,
+    "distanceKm": 94.9,
+    "trafficScore": 63,
+    "vehicleSpeed": 45,
+    "delayMinutes": 85.16
+  },
+  {
+    "hour": 15,
+    "isWeekend": 1,
+    "distanceKm": 88.3,
+    "trafficScore": 65,
+    "vehicleSpeed": 40,
+    "delayMinutes": 73.73
+  },
+  {
+    "hour": 5,
+    "isWeekend": 0,
+    "distanceKm": 99.1,
+    "trafficScore": 29,
+    "vehicleSpeed": 60,
+    "delayMinutes": 27.35
+  },
+  {
+    "hour": 1,
+    "isWeekend": 0,
+    "distanceKm": 80.1,
+    "trafficScore": 49,
+    "vehicleSpeed": 40,
+    "delayMinutes": 39.12
+  },
+  {
+    "hour": 16,
+    "isWeekend": 1,
+    "distanceKm": 73.4,
+    "trafficScore": 81,
+    "vehicleSpeed": 60,
+    "delayMinutes": 43.02
+  },
+  {
+    "hour": 15,
+    "isWeekend": 0,
+    "distanceKm": 11.1,
+    "trafficScore": 90,
+    "vehicleSpeed": 45,
+    "delayMinutes": 11.81
+  },
+  {
+    "hour": 8,
+    "isWeekend": 1,
+    "distanceKm": 12.9,
+    "trafficScore": 75,
+    "vehicleSpeed": 40,
+    "delayMinutes": 16.44
+  },
+  {
+    "hour": 3,
+    "isWeekend": 0,
+    "distanceKm": 99.1,
+    "trafficScore": 50,
+    "vehicleSpeed": 40,
+    "delayMinutes": 43.18
+  },
+  {
+    "hour": 11,
+    "isWeekend": 1,
+    "distanceKm": 145.1,
+    "trafficScore": 30,
+    "vehicleSpeed": 45,
+    "delayMinutes": 43.2
+  },
+  {
+    "hour": 12,
+    "isWeekend": 1,
+    "distanceKm": 106.1,
+    "trafficScore": 48,
+    "vehicleSpeed": 45,
+    "delayMinutes": 57.93
+  },
+  {
+    "hour": 20,
+    "isWeekend": 0,
+    "distanceKm": 25.9,
+    "trafficScore": 68,
+    "vehicleSpeed": 45,
+    "delayMinutes": 25.72
+  },
+  {
+    "hour": 17,
+    "isWeekend": 1,
+    "distanceKm": 19.5,
+    "trafficScore": 21,
+    "vehicleSpeed": 60,
+    "delayMinutes": 11.33
+  },
+  {
+    "hour": 13,
+    "isWeekend": 1,
+    "distanceKm": 106.2,
+    "trafficScore": 32,
+    "vehicleSpeed": 60,
+    "delayMinutes": 47.89
+  },
+  {
+    "hour": 1,
+    "isWeekend": 0,
+    "distanceKm": 45.9,
+    "trafficScore": 80,
+    "vehicleSpeed": 45,
+    "delayMinutes": 34.28
+  },
+  {
+    "hour": 8,
+    "isWeekend": 0,
+    "distanceKm": 40.5,
+    "trafficScore": 60,
+    "vehicleSpeed": 40,
+    "delayMinutes": 48.54
+  },
+  {
+    "hour": 6,
+    "isWeekend": 0,
+    "distanceKm": 137.9,
+    "trafficScore": 70,
+    "vehicleSpeed": 40,
+    "delayMinutes": 111.41
+  },
+  {
+    "hour": 18,
+    "isWeekend": 1,
+    "distanceKm": 125.1,
+    "trafficScore": 89,
+    "vehicleSpeed": 45,
+    "delayMinutes": 179.59
+  },
+  {
+    "hour": 12,
+    "isWeekend": 0,
+    "distanceKm": 144.4,
+    "trafficScore": 30,
+    "vehicleSpeed": 60,
+    "delayMinutes": 57.46
+  },
+  {
+    "hour": 3,
+    "isWeekend": 1,
+    "distanceKm": 49.5,
+    "trafficScore": 29,
+    "vehicleSpeed": 45,
+    "delayMinutes": 5.27
+  },
+  {
+    "hour": 19,
+    "isWeekend": 1,
+    "distanceKm": 174.7,
+    "trafficScore": 61,
+    "vehicleSpeed": 40,
+    "delayMinutes": 184.32
+  },
+  {
+    "hour": 14,
+    "isWeekend": 1,
+    "distanceKm": 48.8,
+    "trafficScore": 90,
+    "vehicleSpeed": 45,
+    "delayMinutes": 41.68
+  },
+  {
+    "hour": 13,
+    "isWeekend": 0,
+    "distanceKm": 125.5,
+    "trafficScore": 68,
+    "vehicleSpeed": 40,
+    "delayMinutes": 123.55
+  },
+  {
+    "hour": 7,
+    "isWeekend": 0,
+    "distanceKm": 23.9,
+    "trafficScore": 39,
+    "vehicleSpeed": 45,
+    "delayMinutes": 18.71
+  },
+  {
+    "hour": 22,
+    "isWeekend": 0,
+    "distanceKm": 135.7,
+    "trafficScore": 60,
+    "vehicleSpeed": 45,
+    "delayMinutes": 92.53
+  },
+  {
+    "hour": 9,
+    "isWeekend": 1,
+    "distanceKm": 71.2,
+    "trafficScore": 54,
+    "vehicleSpeed": 40,
+    "delayMinutes": 75.94
+  },
+  {
+    "hour": 4,
+    "isWeekend": 0,
+    "distanceKm": 41.9,
+    "trafficScore": 77,
+    "vehicleSpeed": 60,
+    "delayMinutes": 18.16
+  },
+  {
+    "hour": 0,
+    "isWeekend": 0,
+    "distanceKm": 70.2,
+    "trafficScore": 31,
+    "vehicleSpeed": 60,
+    "delayMinutes": 12.91
+  },
+  {
+    "hour": 19,
+    "isWeekend": 1,
+    "distanceKm": 156.8,
+    "trafficScore": 21,
+    "vehicleSpeed": 45,
+    "delayMinutes": 87.25
+  },
+  {
+    "hour": 23,
+    "isWeekend": 0,
+    "distanceKm": 107.2,
+    "trafficScore": 41,
+    "vehicleSpeed": 60,
+    "delayMinutes": 48.58
+  },
+  {
+    "hour": 12,
+    "isWeekend": 0,
+    "distanceKm": 33.6,
+    "trafficScore": 58,
+    "vehicleSpeed": 45,
+    "delayMinutes": 24.78
+  },
+  {
+    "hour": 13,
+    "isWeekend": 1,
+    "distanceKm": 81.6,
+    "trafficScore": 81,
+    "vehicleSpeed": 40,
+    "delayMinutes": 84.18
+  },
+  {
+    "hour": 11,
+    "isWeekend": 1,
+    "distanceKm": 170.5,
+    "trafficScore": 83,
+    "vehicleSpeed": 60,
+    "delayMinutes": 92.7
+  },
+  {
+    "hour": 4,
+    "isWeekend": 1,
+    "distanceKm": 11.2,
+    "trafficScore": 70,
+    "vehicleSpeed": 45,
+    "delayMinutes": 5.39
+  },
+  {
+    "hour": 19,
+    "isWeekend": 1,
+    "distanceKm": 146.7,
+    "trafficScore": 62,
+    "vehicleSpeed": 45,
+    "delayMinutes": 142.46
+  },
+  {
+    "hour": 20,
+    "isWeekend": 0,
+    "distanceKm": 61.1,
+    "trafficScore": 45,
+    "vehicleSpeed": 45,
+    "delayMinutes": 70.41
+  },
+  {
+    "hour": 10,
+    "isWeekend": 0,
+    "distanceKm": 174.0,
+    "trafficScore": 60,
+    "vehicleSpeed": 45,
+    "delayMinutes": 180.79
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 65.4,
+    "trafficScore": 55,
+    "vehicleSpeed": 45,
+    "delayMinutes": 60.15
+  },
+  {
+    "hour": 11,
+    "isWeekend": 0,
+    "distanceKm": 168.5,
+    "trafficScore": 45,
+    "vehicleSpeed": 60,
+    "delayMinutes": 77.15
+  },
+  {
+    "hour": 17,
+    "isWeekend": 0,
+    "distanceKm": 172.0,
+    "trafficScore": 79,
+    "vehicleSpeed": 60,
+    "delayMinutes": 164.71
+  },
+  {
+    "hour": 6,
+    "isWeekend": 1,
+    "distanceKm": 145.6,
+    "trafficScore": 28,
+    "vehicleSpeed": 45,
+    "delayMinutes": 44.97
+  },
+  {
+    "hour": 9,
+    "isWeekend": 0,
+    "distanceKm": 53.0,
+    "trafficScore": 39,
+    "vehicleSpeed": 60,
+    "delayMinutes": 32.58
+  },
+  {
+    "hour": 13,
+    "isWeekend": 1,
+    "distanceKm": 22.6,
+    "trafficScore": 81,
+    "vehicleSpeed": 60,
+    "delayMinutes": 13.77
+  },
+  {
+    "hour": 22,
+    "isWeekend": 1,
+    "distanceKm": 102.4,
+    "trafficScore": 66,
+    "vehicleSpeed": 60,
+    "delayMinutes": 56.78
+  },
+  {
+    "hour": 17,
+    "isWeekend": 0,
+    "distanceKm": 28.6,
+    "trafficScore": 51,
+    "vehicleSpeed": 60,
+    "delayMinutes": 21.5
+  },
+  {
+    "hour": 19,
+    "isWeekend": 0,
+    "distanceKm": 105.7,
+    "trafficScore": 71,
+    "vehicleSpeed": 45,
+    "delayMinutes": 121.91
+  },
+  {
+    "hour": 13,
+    "isWeekend": 0,
+    "distanceKm": 11.8,
+    "trafficScore": 53,
+    "vehicleSpeed": 40,
+    "delayMinutes": 8.02
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 85.8,
+    "trafficScore": 70,
+    "vehicleSpeed": 45,
+    "delayMinutes": 102.22
+  },
+  {
+    "hour": 21,
+    "isWeekend": 0,
+    "distanceKm": 68.6,
+    "trafficScore": 23,
+    "vehicleSpeed": 45,
+    "delayMinutes": 60.39
+  },
+  {
+    "hour": 2,
+    "isWeekend": 0,
+    "distanceKm": 151.3,
+    "trafficScore": 38,
+    "vehicleSpeed": 45,
+    "delayMinutes": 62.07
+  },
+  {
+    "hour": 9,
+    "isWeekend": 1,
+    "distanceKm": 87.4,
+    "trafficScore": 46,
+    "vehicleSpeed": 60,
+    "delayMinutes": 49.25
+  },
+  {
+    "hour": 14,
+    "isWeekend": 1,
+    "distanceKm": 64.2,
+    "trafficScore": 58,
+    "vehicleSpeed": 40,
+    "delayMinutes": 52.65
+  },
+  {
+    "hour": 22,
+    "isWeekend": 0,
+    "distanceKm": 13.8,
+    "trafficScore": 63,
+    "vehicleSpeed": 60,
+    "delayMinutes": 8.77
+  },
+  {
+    "hour": 23,
+    "isWeekend": 0,
+    "distanceKm": 97.7,
+    "trafficScore": 90,
+    "vehicleSpeed": 40,
+    "delayMinutes": 115.93
+  },
+  {
+    "hour": 10,
+    "isWeekend": 1,
+    "distanceKm": 172.9,
+    "trafficScore": 49,
+    "vehicleSpeed": 45,
+    "delayMinutes": 147.14
+  },
+  {
+    "hour": 21,
+    "isWeekend": 1,
+    "distanceKm": 77.2,
+    "trafficScore": 45,
+    "vehicleSpeed": 45,
+    "delayMinutes": 67.43
+  },
+  {
+    "hour": 18,
+    "isWeekend": 1,
+    "distanceKm": 76.1,
+    "trafficScore": 47,
+    "vehicleSpeed": 40,
+    "delayMinutes": 78.01
+  },
+  {
+    "hour": 2,
+    "isWeekend": 0,
+    "distanceKm": 145.9,
+    "trafficScore": 88,
+    "vehicleSpeed": 40,
+    "delayMinutes": 154.25
+  },
+  {
+    "hour": 11,
+    "isWeekend": 1,
+    "distanceKm": 43.5,
+    "trafficScore": 34,
+    "vehicleSpeed": 45,
+    "delayMinutes": 14.31
+  },
+  {
+    "hour": 20,
+    "isWeekend": 1,
+    "distanceKm": 111.5,
+    "trafficScore": 70,
+    "vehicleSpeed": 60,
+    "delayMinutes": 86.25
+  },
+  {
+    "hour": 3,
+    "isWeekend": 1,
+    "distanceKm": 69.8,
+    "trafficScore": 78,
+    "vehicleSpeed": 60,
+    "delayMinutes": 36.85
+  },
+  {
+    "hour": 9,
+    "isWeekend": 0,
+    "distanceKm": 124.3,
+    "trafficScore": 60,
+    "vehicleSpeed": 40,
+    "delayMinutes": 167.02
+  },
+  {
+    "hour": 7,
+    "isWeekend": 1,
+    "distanceKm": 29.9,
+    "trafficScore": 67,
+    "vehicleSpeed": 60,
+    "delayMinutes": 25.13
+  },
+  {
+    "hour": 19,
+    "isWeekend": 0,
+    "distanceKm": 107.7,
+    "trafficScore": 74,
+    "vehicleSpeed": 40,
+    "delayMinutes": 159.54
+  },
+  {
+    "hour": 15,
+    "isWeekend": 0,
+    "distanceKm": 104.3,
+    "trafficScore": 82,
+    "vehicleSpeed": 45,
+    "delayMinutes": 96.27
+  },
+  {
+    "hour": 14,
+    "isWeekend": 0,
+    "distanceKm": 157.1,
+    "trafficScore": 21,
+    "vehicleSpeed": 45,
+    "delayMinutes": 82.77
+  },
+  {
+    "hour": 4,
+    "isWeekend": 0,
+    "distanceKm": 148.6,
+    "trafficScore": 84,
+    "vehicleSpeed": 60,
+    "delayMinutes": 64.57
+  },
+  {
+    "hour": 13,
+    "isWeekend": 1,
+    "distanceKm": 93.1,
+    "trafficScore": 30,
+    "vehicleSpeed": 60,
+    "delayMinutes": 33.41
+  },
+  {
+    "hour": 0,
+    "isWeekend": 0,
+    "distanceKm": 59.7,
+    "trafficScore": 55,
+    "vehicleSpeed": 40,
+    "delayMinutes": 28.68
+  },
+  {
+    "hour": 14,
+    "isWeekend": 1,
+    "distanceKm": 103.5,
+    "trafficScore": 34,
+    "vehicleSpeed": 60,
+    "delayMinutes": 38.26
+  },
+  {
+    "hour": 3,
+    "isWeekend": 1,
+    "distanceKm": 141.8,
+    "trafficScore": 66,
+    "vehicleSpeed": 60,
+    "delayMinutes": 57.33
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 102.9,
+    "trafficScore": 74,
+    "vehicleSpeed": 40,
+    "delayMinutes": 81.81
+  },
+  {
+    "hour": 23,
+    "isWeekend": 0,
+    "distanceKm": 60.6,
+    "trafficScore": 24,
+    "vehicleSpeed": 45,
+    "delayMinutes": 20.86
+  },
+  {
+    "hour": 2,
+    "isWeekend": 1,
+    "distanceKm": 157.1,
+    "trafficScore": 35,
+    "vehicleSpeed": 40,
+    "delayMinutes": 82.77
+  },
+  {
+    "hour": 6,
+    "isWeekend": 1,
+    "distanceKm": 156.4,
+    "trafficScore": 74,
+    "vehicleSpeed": 40,
+    "delayMinutes": 104.74
+  },
+  {
+    "hour": 6,
+    "isWeekend": 0,
+    "distanceKm": 106.9,
+    "trafficScore": 88,
+    "vehicleSpeed": 45,
+    "delayMinutes": 84.59
+  },
+  {
+    "hour": 19,
+    "isWeekend": 0,
+    "distanceKm": 65.0,
+    "trafficScore": 57,
+    "vehicleSpeed": 45,
+    "delayMinutes": 55.32
+  },
+  {
+    "hour": 16,
+    "isWeekend": 0,
+    "distanceKm": 33.1,
+    "trafficScore": 72,
+    "vehicleSpeed": 40,
+    "delayMinutes": 24.62
+  },
+  {
+    "hour": 8,
+    "isWeekend": 0,
+    "distanceKm": 129.2,
+    "trafficScore": 36,
+    "vehicleSpeed": 40,
+    "delayMinutes": 131.16
+  },
+  {
+    "hour": 7,
+    "isWeekend": 1,
+    "distanceKm": 93.2,
+    "trafficScore": 54,
+    "vehicleSpeed": 60,
+    "delayMinutes": 71.03
+  },
+  {
+    "hour": 13,
+    "isWeekend": 1,
+    "distanceKm": 86.8,
+    "trafficScore": 31,
+    "vehicleSpeed": 45,
+    "delayMinutes": 34.4
+  },
+  {
+    "hour": 11,
+    "isWeekend": 1,
+    "distanceKm": 171.5,
+    "trafficScore": 61,
+    "vehicleSpeed": 60,
+    "delayMinutes": 78.92
+  },
+  {
+    "hour": 0,
+    "isWeekend": 0,
+    "distanceKm": 134.3,
+    "trafficScore": 78,
+    "vehicleSpeed": 60,
+    "delayMinutes": 64.24
+  },
+  {
+    "hour": 2,
+    "isWeekend": 1,
+    "distanceKm": 47.0,
+    "trafficScore": 74,
+    "vehicleSpeed": 40,
+    "delayMinutes": 26.89
+  },
+  {
+    "hour": 15,
+    "isWeekend": 1,
+    "distanceKm": 64.9,
+    "trafficScore": 56,
+    "vehicleSpeed": 45,
+    "delayMinutes": 34.05
+  },
+  {
+    "hour": 15,
+    "isWeekend": 1,
+    "distanceKm": 162.0,
+    "trafficScore": 26,
+    "vehicleSpeed": 40,
+    "delayMinutes": 55.06
+  },
+  {
+    "hour": 3,
+    "isWeekend": 1,
+    "distanceKm": 12.8,
+    "trafficScore": 40,
+    "vehicleSpeed": 45,
+    "delayMinutes": 0.51
+  },
+  {
+    "hour": 13,
+    "isWeekend": 0,
+    "distanceKm": 179.3,
+    "trafficScore": 36,
+    "vehicleSpeed": 60,
+    "delayMinutes": 90.71
+  },
+  {
+    "hour": 9,
+    "isWeekend": 0,
+    "distanceKm": 158.7,
+    "trafficScore": 55,
+    "vehicleSpeed": 40,
+    "delayMinutes": 172.17
+  },
+  {
+    "hour": 11,
+    "isWeekend": 0,
+    "distanceKm": 18.8,
+    "trafficScore": 59,
+    "vehicleSpeed": 60,
+    "delayMinutes": 8.43
+  },
+  {
+    "hour": 22,
+    "isWeekend": 0,
+    "distanceKm": 83.0,
+    "trafficScore": 31,
+    "vehicleSpeed": 60,
+    "delayMinutes": 30.07
+  },
+  {
+    "hour": 2,
+    "isWeekend": 0,
+    "distanceKm": 110.9,
+    "trafficScore": 86,
+    "vehicleSpeed": 60,
+    "delayMinutes": 66.56
+  },
+  {
+    "hour": 14,
+    "isWeekend": 0,
+    "distanceKm": 11.4,
+    "trafficScore": 63,
+    "vehicleSpeed": 40,
+    "delayMinutes": 11.94
+  },
+  {
+    "hour": 4,
+    "isWeekend": 1,
+    "distanceKm": 22.0,
+    "trafficScore": 69,
+    "vehicleSpeed": 40,
+    "delayMinutes": 13.44
+  },
+  {
+    "hour": 23,
+    "isWeekend": 0,
+    "distanceKm": 27.5,
+    "trafficScore": 67,
+    "vehicleSpeed": 45,
+    "delayMinutes": 23.48
+  },
+  {
+    "hour": 4,
+    "isWeekend": 0,
+    "distanceKm": 21.6,
+    "trafficScore": 21,
+    "vehicleSpeed": 60,
+    "delayMinutes": 5.42
+  },
+  {
+    "hour": 20,
+    "isWeekend": 0,
+    "distanceKm": 84.8,
+    "trafficScore": 47,
+    "vehicleSpeed": 60,
+    "delayMinutes": 63.48
+  },
+  {
+    "hour": 19,
+    "isWeekend": 1,
+    "distanceKm": 156.2,
+    "trafficScore": 31,
+    "vehicleSpeed": 40,
+    "delayMinutes": 98.82
+  },
+  {
+    "hour": 4,
+    "isWeekend": 0,
+    "distanceKm": 110.2,
+    "trafficScore": 69,
+    "vehicleSpeed": 45,
+    "delayMinutes": 77.31
+  },
+  {
+    "hour": 4,
+    "isWeekend": 0,
+    "distanceKm": 57.1,
+    "trafficScore": 30,
+    "vehicleSpeed": 40,
+    "delayMinutes": 16.2
+  },
+  {
+    "hour": 17,
+    "isWeekend": 1,
+    "distanceKm": 142.4,
+    "trafficScore": 23,
+    "vehicleSpeed": 60,
+    "delayMinutes": 83.74
+  },
+  {
+    "hour": 19,
+    "isWeekend": 0,
+    "distanceKm": 137.1,
+    "trafficScore": 57,
+    "vehicleSpeed": 60,
+    "delayMinutes": 106.57
+  },
+  {
+    "hour": 1,
+    "isWeekend": 0,
+    "distanceKm": 94.1,
+    "trafficScore": 34,
+    "vehicleSpeed": 40,
+    "delayMinutes": 17.45
+  },
+  {
+    "hour": 16,
+    "isWeekend": 0,
+    "distanceKm": 177.8,
+    "trafficScore": 60,
+    "vehicleSpeed": 40,
+    "delayMinutes": 134.76
+  },
+  {
+    "hour": 12,
+    "isWeekend": 1,
+    "distanceKm": 72.1,
+    "trafficScore": 42,
+    "vehicleSpeed": 45,
+    "delayMinutes": 54.28
+  },
+  {
+    "hour": 0,
+    "isWeekend": 0,
+    "distanceKm": 12.3,
+    "trafficScore": 47,
+    "vehicleSpeed": 40,
+    "delayMinutes": 5.11
+  },
+  {
+    "hour": 1,
+    "isWeekend": 1,
+    "distanceKm": 96.1,
+    "trafficScore": 84,
+    "vehicleSpeed": 45,
+    "delayMinutes": 56.25
+  },
+  {
+    "hour": 20,
+    "isWeekend": 0,
+    "distanceKm": 57.2,
+    "trafficScore": 59,
+    "vehicleSpeed": 40,
+    "delayMinutes": 74.3
+  },
+  {
+    "hour": 16,
+    "isWeekend": 0,
+    "distanceKm": 175.6,
+    "trafficScore": 39,
+    "vehicleSpeed": 60,
+    "delayMinutes": 56.05
+  },
+  {
+    "hour": 20,
+    "isWeekend": 0,
+    "distanceKm": 62.7,
+    "trafficScore": 75,
+    "vehicleSpeed": 60,
+    "delayMinutes": 64.37
+  },
+  {
+    "hour": 7,
+    "isWeekend": 0,
+    "distanceKm": 51.6,
+    "trafficScore": 75,
+    "vehicleSpeed": 40,
+    "delayMinutes": 60.57
+  },
+  {
+    "hour": 9,
+    "isWeekend": 0,
+    "distanceKm": 30.3,
+    "trafficScore": 37,
+    "vehicleSpeed": 60,
+    "delayMinutes": 20.37
+  },
+  {
+    "hour": 0,
+    "isWeekend": 0,
+    "distanceKm": 94.4,
+    "trafficScore": 64,
+    "vehicleSpeed": 60,
+    "delayMinutes": 26.25
+  },
+  {
+    "hour": 8,
+    "isWeekend": 0,
+    "distanceKm": 73.2,
+    "trafficScore": 54,
+    "vehicleSpeed": 60,
+    "delayMinutes": 53.8
+  },
+  {
+    "hour": 3,
+    "isWeekend": 0,
+    "distanceKm": 67.0,
+    "trafficScore": 74,
+    "vehicleSpeed": 45,
+    "delayMinutes": 38.34
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 94.3,
+    "trafficScore": 85,
+    "vehicleSpeed": 45,
+    "delayMinutes": 124.25
+  },
+  {
+    "hour": 1,
+    "isWeekend": 1,
+    "distanceKm": 156.1,
+    "trafficScore": 41,
+    "vehicleSpeed": 45,
+    "delayMinutes": 63.96
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 48.8,
+    "trafficScore": 85,
+    "vehicleSpeed": 40,
+    "delayMinutes": 81.44
+  },
+  {
+    "hour": 1,
+    "isWeekend": 0,
+    "distanceKm": 51.6,
+    "trafficScore": 80,
+    "vehicleSpeed": 45,
+    "delayMinutes": 34.14
+  },
+  {
+    "hour": 1,
+    "isWeekend": 1,
+    "distanceKm": 48.2,
+    "trafficScore": 51,
+    "vehicleSpeed": 45,
+    "delayMinutes": 21.02
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 56.1,
+    "trafficScore": 29,
+    "vehicleSpeed": 60,
+    "delayMinutes": 10.81
+  },
+  {
+    "hour": 1,
+    "isWeekend": 0,
+    "distanceKm": 47.9,
+    "trafficScore": 86,
+    "vehicleSpeed": 40,
+    "delayMinutes": 45.75
+  },
+  {
+    "hour": 12,
+    "isWeekend": 0,
+    "distanceKm": 159.1,
+    "trafficScore": 56,
+    "vehicleSpeed": 45,
+    "delayMinutes": 110.65
+  },
+  {
+    "hour": 0,
+    "isWeekend": 1,
+    "distanceKm": 44.1,
+    "trafficScore": 58,
+    "vehicleSpeed": 60,
+    "delayMinutes": 19.04
+  },
+  {
+    "hour": 19,
+    "isWeekend": 0,
+    "distanceKm": 88.9,
+    "trafficScore": 83,
+    "vehicleSpeed": 40,
+    "delayMinutes": 129.81
+  },
+  {
+    "hour": 7,
+    "isWeekend": 0,
+    "distanceKm": 11.1,
+    "trafficScore": 72,
+    "vehicleSpeed": 40,
+    "delayMinutes": 12.79
+  },
+  {
+    "hour": 7,
+    "isWeekend": 1,
+    "distanceKm": 118.1,
+    "trafficScore": 21,
+    "vehicleSpeed": 45,
+    "delayMinutes": 95.83
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 27.7,
+    "trafficScore": 87,
+    "vehicleSpeed": 40,
+    "delayMinutes": 26.45
+  },
+  {
+    "hour": 13,
+    "isWeekend": 1,
+    "distanceKm": 173.4,
+    "trafficScore": 38,
+    "vehicleSpeed": 60,
+    "delayMinutes": 69.8
+  },
+  {
+    "hour": 7,
+    "isWeekend": 1,
+    "distanceKm": 129.1,
+    "trafficScore": 67,
+    "vehicleSpeed": 45,
+    "delayMinutes": 140.13
+  },
+  {
+    "hour": 23,
+    "isWeekend": 0,
+    "distanceKm": 108.7,
+    "trafficScore": 84,
+    "vehicleSpeed": 40,
+    "delayMinutes": 99.27
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 83.9,
+    "trafficScore": 36,
+    "vehicleSpeed": 40,
+    "delayMinutes": 77.8
+  },
+  {
+    "hour": 9,
+    "isWeekend": 1,
+    "distanceKm": 154.7,
+    "trafficScore": 70,
+    "vehicleSpeed": 60,
+    "delayMinutes": 130.72
+  },
+  {
+    "hour": 14,
+    "isWeekend": 1,
+    "distanceKm": 49.7,
+    "trafficScore": 45,
+    "vehicleSpeed": 40,
+    "delayMinutes": 29.12
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 36.4,
+    "trafficScore": 41,
+    "vehicleSpeed": 45,
+    "delayMinutes": 30.66
+  },
+  {
+    "hour": 17,
+    "isWeekend": 1,
+    "distanceKm": 174.0,
+    "trafficScore": 46,
+    "vehicleSpeed": 45,
+    "delayMinutes": 166.18
+  },
+  {
+    "hour": 9,
+    "isWeekend": 1,
+    "distanceKm": 55.1,
+    "trafficScore": 35,
+    "vehicleSpeed": 40,
+    "delayMinutes": 53.66
+  },
+  {
+    "hour": 22,
+    "isWeekend": 0,
+    "distanceKm": 46.6,
+    "trafficScore": 61,
+    "vehicleSpeed": 40,
+    "delayMinutes": 42.87
+  },
+  {
+    "hour": 2,
+    "isWeekend": 0,
+    "distanceKm": 174.6,
+    "trafficScore": 70,
+    "vehicleSpeed": 60,
+    "delayMinutes": 92.41
+  },
+  {
+    "hour": 5,
+    "isWeekend": 0,
+    "distanceKm": 171.9,
+    "trafficScore": 77,
+    "vehicleSpeed": 60,
+    "delayMinutes": 91.26
+  },
+  {
+    "hour": 23,
+    "isWeekend": 0,
+    "distanceKm": 26.1,
+    "trafficScore": 33,
+    "vehicleSpeed": 40,
+    "delayMinutes": 13.71
+  },
+  {
+    "hour": 7,
+    "isWeekend": 0,
+    "distanceKm": 43.7,
+    "trafficScore": 71,
+    "vehicleSpeed": 45,
+    "delayMinutes": 51.35
+  },
+  {
+    "hour": 21,
+    "isWeekend": 0,
+    "distanceKm": 109.0,
+    "trafficScore": 53,
+    "vehicleSpeed": 40,
+    "delayMinutes": 133.81
+  },
+  {
+    "hour": 20,
+    "isWeekend": 1,
+    "distanceKm": 147.6,
+    "trafficScore": 31,
+    "vehicleSpeed": 45,
+    "delayMinutes": 119.16
+  },
+  {
+    "hour": 3,
+    "isWeekend": 0,
+    "distanceKm": 170.2,
+    "trafficScore": 26,
+    "vehicleSpeed": 40,
+    "delayMinutes": 65.03
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 94.3,
+    "trafficScore": 68,
+    "vehicleSpeed": 60,
+    "delayMinutes": 44.59
+  },
+  {
+    "hour": 13,
+    "isWeekend": 0,
+    "distanceKm": 70.2,
+    "trafficScore": 43,
+    "vehicleSpeed": 45,
+    "delayMinutes": 42.45
+  },
+  {
+    "hour": 1,
+    "isWeekend": 0,
+    "distanceKm": 120.0,
+    "trafficScore": 83,
+    "vehicleSpeed": 45,
+    "delayMinutes": 113.99
+  },
+  {
+    "hour": 17,
+    "isWeekend": 1,
+    "distanceKm": 20.4,
+    "trafficScore": 55,
+    "vehicleSpeed": 45,
+    "delayMinutes": 21.55
+  },
+  {
+    "hour": 16,
+    "isWeekend": 0,
+    "distanceKm": 117.2,
+    "trafficScore": 89,
+    "vehicleSpeed": 40,
+    "delayMinutes": 129.04
+  },
+  {
+    "hour": 12,
+    "isWeekend": 1,
+    "distanceKm": 91.5,
+    "trafficScore": 82,
+    "vehicleSpeed": 45,
+    "delayMinutes": 94.38
+  },
+  {
+    "hour": 12,
+    "isWeekend": 1,
+    "distanceKm": 40.6,
+    "trafficScore": 60,
+    "vehicleSpeed": 60,
+    "delayMinutes": 20.33
+  },
+  {
+    "hour": 7,
+    "isWeekend": 0,
+    "distanceKm": 162.3,
+    "trafficScore": 55,
+    "vehicleSpeed": 40,
+    "delayMinutes": 192.34
+  },
+  {
+    "hour": 11,
+    "isWeekend": 0,
+    "distanceKm": 175.6,
+    "trafficScore": 32,
+    "vehicleSpeed": 40,
+    "delayMinutes": 62.87
+  },
+  {
+    "hour": 21,
+    "isWeekend": 0,
+    "distanceKm": 55.3,
+    "trafficScore": 27,
+    "vehicleSpeed": 40,
+    "delayMinutes": 34.67
+  },
+  {
+    "hour": 12,
+    "isWeekend": 1,
+    "distanceKm": 169.0,
+    "trafficScore": 42,
+    "vehicleSpeed": 40,
+    "delayMinutes": 83.32
+  },
+  {
+    "hour": 7,
+    "isWeekend": 1,
+    "distanceKm": 147.1,
+    "trafficScore": 65,
+    "vehicleSpeed": 60,
+    "delayMinutes": 132.36
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 105.7,
+    "trafficScore": 44,
+    "vehicleSpeed": 45,
+    "delayMinutes": 106.11
+  },
+  {
+    "hour": 17,
+    "isWeekend": 1,
+    "distanceKm": 39.8,
+    "trafficScore": 24,
+    "vehicleSpeed": 40,
+    "delayMinutes": 39.27
+  },
+  {
+    "hour": 0,
+    "isWeekend": 1,
+    "distanceKm": 10.1,
+    "trafficScore": 45,
+    "vehicleSpeed": 40,
+    "delayMinutes": 4.47
+  },
+  {
+    "hour": 10,
+    "isWeekend": 0,
+    "distanceKm": 166.2,
+    "trafficScore": 61,
+    "vehicleSpeed": 40,
+    "delayMinutes": 224.83
+  },
+  {
+    "hour": 4,
+    "isWeekend": 0,
+    "distanceKm": 153.9,
+    "trafficScore": 66,
+    "vehicleSpeed": 40,
+    "delayMinutes": 104.71
+  },
+  {
+    "hour": 11,
+    "isWeekend": 1,
+    "distanceKm": 109.6,
+    "trafficScore": 63,
+    "vehicleSpeed": 45,
+    "delayMinutes": 56.02
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 144.6,
+    "trafficScore": 82,
+    "vehicleSpeed": 60,
+    "delayMinutes": 115.54
+  },
+  {
+    "hour": 10,
+    "isWeekend": 0,
+    "distanceKm": 130.2,
+    "trafficScore": 65,
+    "vehicleSpeed": 40,
+    "delayMinutes": 146.12
+  },
+  {
+    "hour": 12,
+    "isWeekend": 1,
+    "distanceKm": 134.8,
+    "trafficScore": 57,
+    "vehicleSpeed": 40,
+    "delayMinutes": 81.66
+  },
+  {
+    "hour": 5,
+    "isWeekend": 0,
+    "distanceKm": 171.3,
+    "trafficScore": 70,
+    "vehicleSpeed": 60,
+    "delayMinutes": 97.88
+  },
+  {
+    "hour": 19,
+    "isWeekend": 0,
+    "distanceKm": 118.7,
+    "trafficScore": 33,
+    "vehicleSpeed": 45,
+    "delayMinutes": 107.85
+  },
+  {
+    "hour": 4,
+    "isWeekend": 1,
+    "distanceKm": 136.7,
+    "trafficScore": 50,
+    "vehicleSpeed": 45,
+    "delayMinutes": 61.64
+  },
+  {
+    "hour": 2,
+    "isWeekend": 1,
+    "distanceKm": 85.9,
+    "trafficScore": 53,
+    "vehicleSpeed": 40,
+    "delayMinutes": 39.19
+  },
+  {
+    "hour": 7,
+    "isWeekend": 0,
+    "distanceKm": 69.6,
+    "trafficScore": 33,
+    "vehicleSpeed": 60,
+    "delayMinutes": 48.27
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 174.7,
+    "trafficScore": 72,
+    "vehicleSpeed": 45,
+    "delayMinutes": 125.47
+  },
+  {
+    "hour": 12,
+    "isWeekend": 1,
+    "distanceKm": 102.8,
+    "trafficScore": 32,
+    "vehicleSpeed": 45,
+    "delayMinutes": 53.91
+  },
+  {
+    "hour": 21,
+    "isWeekend": 0,
+    "distanceKm": 37.7,
+    "trafficScore": 29,
+    "vehicleSpeed": 40,
+    "delayMinutes": 30.06
+  },
+  {
+    "hour": 9,
+    "isWeekend": 0,
+    "distanceKm": 64.2,
+    "trafficScore": 33,
+    "vehicleSpeed": 40,
+    "delayMinutes": 50.39
+  },
+  {
+    "hour": 5,
+    "isWeekend": 0,
+    "distanceKm": 103.0,
+    "trafficScore": 31,
+    "vehicleSpeed": 45,
+    "delayMinutes": 48.31
+  },
+  {
+    "hour": 19,
+    "isWeekend": 1,
+    "distanceKm": 129.8,
+    "trafficScore": 75,
+    "vehicleSpeed": 60,
+    "delayMinutes": 126.3
+  },
+  {
+    "hour": 5,
+    "isWeekend": 0,
+    "distanceKm": 27.2,
+    "trafficScore": 46,
+    "vehicleSpeed": 40,
+    "delayMinutes": 18.51
+  },
+  {
+    "hour": 13,
+    "isWeekend": 1,
+    "distanceKm": 122.3,
+    "trafficScore": 58,
+    "vehicleSpeed": 40,
+    "delayMinutes": 110.59
+  },
+  {
+    "hour": 17,
+    "isWeekend": 1,
+    "distanceKm": 36.1,
+    "trafficScore": 66,
+    "vehicleSpeed": 40,
+    "delayMinutes": 47.34
+  },
+  {
+    "hour": 13,
+    "isWeekend": 0,
+    "distanceKm": 60.1,
+    "trafficScore": 81,
+    "vehicleSpeed": 40,
+    "delayMinutes": 69.97
+  },
+  {
+    "hour": 20,
+    "isWeekend": 1,
+    "distanceKm": 176.1,
+    "trafficScore": 80,
+    "vehicleSpeed": 40,
+    "delayMinutes": 251.25
+  },
+  {
+    "hour": 9,
+    "isWeekend": 1,
+    "distanceKm": 90.1,
+    "trafficScore": 53,
+    "vehicleSpeed": 40,
+    "delayMinutes": 87.81
+  },
+  {
+    "hour": 11,
+    "isWeekend": 1,
+    "distanceKm": 72.8,
+    "trafficScore": 77,
+    "vehicleSpeed": 40,
+    "delayMinutes": 55.57
+  },
+  {
+    "hour": 8,
+    "isWeekend": 1,
+    "distanceKm": 89.1,
+    "trafficScore": 48,
+    "vehicleSpeed": 45,
+    "delayMinutes": 74.24
+  },
+  {
+    "hour": 22,
+    "isWeekend": 0,
+    "distanceKm": 24.6,
+    "trafficScore": 64,
+    "vehicleSpeed": 60,
+    "delayMinutes": 12.62
+  },
+  {
+    "hour": 13,
+    "isWeekend": 0,
+    "distanceKm": 104.1,
+    "trafficScore": 69,
+    "vehicleSpeed": 60,
+    "delayMinutes": 59.03
+  },
+  {
+    "hour": 15,
+    "isWeekend": 0,
+    "distanceKm": 91.0,
+    "trafficScore": 30,
+    "vehicleSpeed": 45,
+    "delayMinutes": 43.49
+  },
+  {
+    "hour": 22,
+    "isWeekend": 0,
+    "distanceKm": 95.4,
+    "trafficScore": 86,
+    "vehicleSpeed": 60,
+    "delayMinutes": 59.63
+  },
+  {
+    "hour": 3,
+    "isWeekend": 1,
+    "distanceKm": 39.4,
+    "trafficScore": 41,
+    "vehicleSpeed": 40,
+    "delayMinutes": 7.77
+  },
+  {
+    "hour": 6,
+    "isWeekend": 0,
+    "distanceKm": 17.3,
+    "trafficScore": 30,
+    "vehicleSpeed": 60,
+    "delayMinutes": 0.99
+  },
+  {
+    "hour": 20,
+    "isWeekend": 0,
+    "distanceKm": 151.8,
+    "trafficScore": 53,
+    "vehicleSpeed": 45,
+    "delayMinutes": 181.76
+  },
+  {
+    "hour": 23,
+    "isWeekend": 0,
+    "distanceKm": 24.8,
+    "trafficScore": 70,
+    "vehicleSpeed": 60,
+    "delayMinutes": 13.4
+  },
+  {
+    "hour": 14,
+    "isWeekend": 0,
+    "distanceKm": 143.7,
+    "trafficScore": 86,
+    "vehicleSpeed": 45,
+    "delayMinutes": 157.32
+  },
+  {
+    "hour": 3,
+    "isWeekend": 1,
+    "distanceKm": 35.4,
+    "trafficScore": 32,
+    "vehicleSpeed": 40,
+    "delayMinutes": 7.38
+  },
+  {
+    "hour": 9,
+    "isWeekend": 1,
+    "distanceKm": 159.2,
+    "trafficScore": 53,
+    "vehicleSpeed": 45,
+    "delayMinutes": 145.47
+  },
+  {
+    "hour": 20,
+    "isWeekend": 1,
+    "distanceKm": 107.2,
+    "trafficScore": 80,
+    "vehicleSpeed": 40,
+    "delayMinutes": 154.07
+  },
+  {
+    "hour": 19,
+    "isWeekend": 1,
+    "distanceKm": 16.6,
+    "trafficScore": 62,
+    "vehicleSpeed": 60,
+    "delayMinutes": 14.52
+  },
+  {
+    "hour": 7,
+    "isWeekend": 0,
+    "distanceKm": 136.8,
+    "trafficScore": 54,
+    "vehicleSpeed": 45,
+    "delayMinutes": 163.67
+  },
+  {
+    "hour": 9,
+    "isWeekend": 1,
+    "distanceKm": 57.7,
+    "trafficScore": 82,
+    "vehicleSpeed": 60,
+    "delayMinutes": 52.32
+  },
+  {
+    "hour": 21,
+    "isWeekend": 0,
+    "distanceKm": 175.3,
+    "trafficScore": 49,
+    "vehicleSpeed": 40,
+    "delayMinutes": 189.94
+  },
+  {
+    "hour": 10,
+    "isWeekend": 1,
+    "distanceKm": 133.9,
+    "trafficScore": 31,
+    "vehicleSpeed": 40,
+    "delayMinutes": 136.97
+  },
+  {
+    "hour": 14,
+    "isWeekend": 0,
+    "distanceKm": 165.3,
+    "trafficScore": 72,
+    "vehicleSpeed": 60,
+    "delayMinutes": 95.38
+  },
+  {
+    "hour": 11,
+    "isWeekend": 0,
+    "distanceKm": 97.6,
+    "trafficScore": 40,
+    "vehicleSpeed": 40,
+    "delayMinutes": 56.28
+  },
+  {
+    "hour": 9,
+    "isWeekend": 1,
+    "distanceKm": 33.1,
+    "trafficScore": 87,
+    "vehicleSpeed": 60,
+    "delayMinutes": 32.17
+  },
+  {
+    "hour": 6,
+    "isWeekend": 0,
+    "distanceKm": 52.4,
+    "trafficScore": 78,
+    "vehicleSpeed": 40,
+    "delayMinutes": 49.63
+  },
+  {
+    "hour": 11,
+    "isWeekend": 0,
+    "distanceKm": 56.6,
+    "trafficScore": 79,
+    "vehicleSpeed": 60,
+    "delayMinutes": 27.39
+  },
+  {
+    "hour": 21,
+    "isWeekend": 0,
+    "distanceKm": 51.1,
+    "trafficScore": 82,
+    "vehicleSpeed": 60,
+    "delayMinutes": 55.56
+  },
+  {
+    "hour": 14,
+    "isWeekend": 0,
+    "distanceKm": 173.3,
+    "trafficScore": 80,
+    "vehicleSpeed": 60,
+    "delayMinutes": 113.56
+  },
+  {
+    "hour": 8,
+    "isWeekend": 0,
+    "distanceKm": 58.5,
+    "trafficScore": 69,
+    "vehicleSpeed": 40,
+    "delayMinutes": 72.41
+  },
+  {
+    "hour": 5,
+    "isWeekend": 0,
+    "distanceKm": 155.7,
+    "trafficScore": 48,
+    "vehicleSpeed": 60,
+    "delayMinutes": 54.99
+  },
+  {
+    "hour": 16,
+    "isWeekend": 0,
+    "distanceKm": 157.0,
+    "trafficScore": 21,
+    "vehicleSpeed": 45,
+    "delayMinutes": 76.07
+  },
+  {
+    "hour": 4,
+    "isWeekend": 0,
+    "distanceKm": 112.2,
+    "trafficScore": 21,
+    "vehicleSpeed": 40,
+    "delayMinutes": 24.29
+  },
+  {
+    "hour": 9,
+    "isWeekend": 1,
+    "distanceKm": 82.0,
+    "trafficScore": 68,
+    "vehicleSpeed": 45,
+    "delayMinutes": 102.95
+  },
+  {
+    "hour": 14,
+    "isWeekend": 1,
+    "distanceKm": 47.1,
+    "trafficScore": 58,
+    "vehicleSpeed": 60,
+    "delayMinutes": 20.07
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 11.2,
+    "trafficScore": 67,
+    "vehicleSpeed": 60,
+    "delayMinutes": 9.7
+  },
+  {
+    "hour": 20,
+    "isWeekend": 1,
+    "distanceKm": 60.7,
+    "trafficScore": 33,
+    "vehicleSpeed": 45,
+    "delayMinutes": 67.52
+  },
+  {
+    "hour": 20,
+    "isWeekend": 1,
+    "distanceKm": 156.5,
+    "trafficScore": 53,
+    "vehicleSpeed": 60,
+    "delayMinutes": 131.1
+  },
+  {
+    "hour": 22,
+    "isWeekend": 1,
+    "distanceKm": 42.0,
+    "trafficScore": 86,
+    "vehicleSpeed": 40,
+    "delayMinutes": 46.99
+  },
+  {
+    "hour": 19,
+    "isWeekend": 1,
+    "distanceKm": 122.3,
+    "trafficScore": 37,
+    "vehicleSpeed": 60,
+    "delayMinutes": 67.9
+  },
+  {
+    "hour": 0,
+    "isWeekend": 1,
+    "distanceKm": 179.6,
+    "trafficScore": 53,
+    "vehicleSpeed": 45,
+    "delayMinutes": 48.27
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 68.3,
+    "trafficScore": 48,
+    "vehicleSpeed": 60,
+    "delayMinutes": 56.74
+  },
+  {
+    "hour": 17,
+    "isWeekend": 1,
+    "distanceKm": 164.1,
+    "trafficScore": 65,
+    "vehicleSpeed": 60,
+    "delayMinutes": 132.49
+  },
+  {
+    "hour": 21,
+    "isWeekend": 0,
+    "distanceKm": 59.9,
+    "trafficScore": 80,
+    "vehicleSpeed": 40,
+    "delayMinutes": 90.88
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 133.3,
+    "trafficScore": 43,
+    "vehicleSpeed": 60,
+    "delayMinutes": 59.14
+  },
+  {
+    "hour": 7,
+    "isWeekend": 1,
+    "distanceKm": 48.0,
+    "trafficScore": 59,
+    "vehicleSpeed": 45,
+    "delayMinutes": 42.86
+  },
+  {
+    "hour": 10,
+    "isWeekend": 1,
+    "distanceKm": 54.3,
+    "trafficScore": 57,
+    "vehicleSpeed": 45,
+    "delayMinutes": 56.41
+  },
+  {
+    "hour": 20,
+    "isWeekend": 0,
+    "distanceKm": 90.3,
+    "trafficScore": 44,
+    "vehicleSpeed": 60,
+    "delayMinutes": 59.46
+  },
+  {
+    "hour": 3,
+    "isWeekend": 1,
+    "distanceKm": 100.1,
+    "trafficScore": 72,
+    "vehicleSpeed": 40,
+    "delayMinutes": 69.74
+  },
+  {
+    "hour": 6,
+    "isWeekend": 1,
+    "distanceKm": 79.6,
+    "trafficScore": 78,
+    "vehicleSpeed": 40,
+    "delayMinutes": 64.93
+  },
+  {
+    "hour": 10,
+    "isWeekend": 0,
+    "distanceKm": 142.4,
+    "trafficScore": 82,
+    "vehicleSpeed": 45,
+    "delayMinutes": 170.7
+  },
+  {
+    "hour": 20,
+    "isWeekend": 0,
+    "distanceKm": 10.8,
+    "trafficScore": 55,
+    "vehicleSpeed": 40,
+    "delayMinutes": 12.41
+  },
+  {
+    "hour": 5,
+    "isWeekend": 0,
+    "distanceKm": 93.2,
+    "trafficScore": 31,
+    "vehicleSpeed": 40,
+    "delayMinutes": 17.65
+  },
+  {
+    "hour": 12,
+    "isWeekend": 1,
+    "distanceKm": 174.1,
+    "trafficScore": 69,
+    "vehicleSpeed": 40,
+    "delayMinutes": 139.41
+  },
+  {
+    "hour": 1,
+    "isWeekend": 0,
+    "distanceKm": 134.2,
+    "trafficScore": 21,
+    "vehicleSpeed": 45,
+    "delayMinutes": 26.97
+  },
+  {
+    "hour": 0,
+    "isWeekend": 0,
+    "distanceKm": 116.5,
+    "trafficScore": 51,
+    "vehicleSpeed": 40,
+    "delayMinutes": 42.49
+  },
+  {
+    "hour": 22,
+    "isWeekend": 1,
+    "distanceKm": 63.1,
+    "trafficScore": 33,
+    "vehicleSpeed": 45,
+    "delayMinutes": 18.18
+  },
+  {
+    "hour": 2,
+    "isWeekend": 0,
+    "distanceKm": 60.7,
+    "trafficScore": 57,
+    "vehicleSpeed": 45,
+    "delayMinutes": 30.68
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 83.7,
+    "trafficScore": 37,
+    "vehicleSpeed": 45,
+    "delayMinutes": 45.01
+  },
+  {
+    "hour": 6,
+    "isWeekend": 0,
+    "distanceKm": 171.2,
+    "trafficScore": 71,
+    "vehicleSpeed": 40,
+    "delayMinutes": 147.47
+  },
+  {
+    "hour": 7,
+    "isWeekend": 0,
+    "distanceKm": 133.6,
+    "trafficScore": 36,
+    "vehicleSpeed": 40,
+    "delayMinutes": 124.92
+  },
+  {
+    "hour": 5,
+    "isWeekend": 0,
+    "distanceKm": 72.3,
+    "trafficScore": 24,
+    "vehicleSpeed": 45,
+    "delayMinutes": 5.76
+  },
+  {
+    "hour": 20,
+    "isWeekend": 1,
+    "distanceKm": 141.1,
+    "trafficScore": 26,
+    "vehicleSpeed": 60,
+    "delayMinutes": 96.9
+  },
+  {
+    "hour": 20,
+    "isWeekend": 0,
+    "distanceKm": 18.2,
+    "trafficScore": 34,
+    "vehicleSpeed": 45,
+    "delayMinutes": 16.07
+  },
+  {
+    "hour": 14,
+    "isWeekend": 1,
+    "distanceKm": 31.0,
+    "trafficScore": 52,
+    "vehicleSpeed": 45,
+    "delayMinutes": 19.92
+  },
+  {
+    "hour": 21,
+    "isWeekend": 0,
+    "distanceKm": 61.2,
+    "trafficScore": 32,
+    "vehicleSpeed": 60,
+    "delayMinutes": 36.79
+  },
+  {
+    "hour": 16,
+    "isWeekend": 1,
+    "distanceKm": 115.9,
+    "trafficScore": 37,
+    "vehicleSpeed": 45,
+    "delayMinutes": 50.81
+  },
+  {
+    "hour": 23,
+    "isWeekend": 0,
+    "distanceKm": 58.1,
+    "trafficScore": 33,
+    "vehicleSpeed": 45,
+    "delayMinutes": 22.97
+  },
+  {
+    "hour": 6,
+    "isWeekend": 0,
+    "distanceKm": 142.3,
+    "trafficScore": 86,
+    "vehicleSpeed": 40,
+    "delayMinutes": 132.87
+  },
+  {
+    "hour": 5,
+    "isWeekend": 0,
+    "distanceKm": 103.2,
+    "trafficScore": 46,
+    "vehicleSpeed": 60,
+    "delayMinutes": 38.49
+  },
+  {
+    "hour": 15,
+    "isWeekend": 1,
+    "distanceKm": 49.9,
+    "trafficScore": 21,
+    "vehicleSpeed": 60,
+    "delayMinutes": 11.94
+  },
+  {
+    "hour": 18,
+    "isWeekend": 1,
+    "distanceKm": 35.4,
+    "trafficScore": 31,
+    "vehicleSpeed": 60,
+    "delayMinutes": 22.02
+  },
+  {
+    "hour": 2,
+    "isWeekend": 0,
+    "distanceKm": 163.8,
+    "trafficScore": 49,
+    "vehicleSpeed": 45,
+    "delayMinutes": 86.35
+  },
+  {
+    "hour": 14,
+    "isWeekend": 0,
+    "distanceKm": 27.0,
+    "trafficScore": 42,
+    "vehicleSpeed": 40,
+    "delayMinutes": 19.17
+  },
+  {
+    "hour": 9,
+    "isWeekend": 1,
+    "distanceKm": 146.3,
+    "trafficScore": 60,
+    "vehicleSpeed": 45,
+    "delayMinutes": 144.82
+  },
+  {
+    "hour": 1,
+    "isWeekend": 0,
+    "distanceKm": 154.8,
+    "trafficScore": 41,
+    "vehicleSpeed": 45,
+    "delayMinutes": 49.71
+  },
+  {
+    "hour": 11,
+    "isWeekend": 1,
+    "distanceKm": 172.4,
+    "trafficScore": 54,
+    "vehicleSpeed": 60,
+    "delayMinutes": 93.72
+  },
+  {
+    "hour": 5,
+    "isWeekend": 0,
+    "distanceKm": 78.1,
+    "trafficScore": 78,
+    "vehicleSpeed": 45,
+    "delayMinutes": 62.27
+  },
+  {
+    "hour": 12,
+    "isWeekend": 1,
+    "distanceKm": 146.0,
+    "trafficScore": 41,
+    "vehicleSpeed": 40,
+    "delayMinutes": 112.39
+  },
+  {
+    "hour": 5,
+    "isWeekend": 0,
+    "distanceKm": 80.7,
+    "trafficScore": 81,
+    "vehicleSpeed": 60,
+    "delayMinutes": 50.98
+  },
+  {
+    "hour": 21,
+    "isWeekend": 1,
+    "distanceKm": 40.8,
+    "trafficScore": 68,
+    "vehicleSpeed": 45,
+    "delayMinutes": 39.17
+  },
+  {
+    "hour": 23,
+    "isWeekend": 0,
+    "distanceKm": 92.1,
+    "trafficScore": 82,
+    "vehicleSpeed": 40,
+    "delayMinutes": 75.34
+  },
+  {
+    "hour": 13,
+    "isWeekend": 1,
+    "distanceKm": 17.8,
+    "trafficScore": 53,
+    "vehicleSpeed": 60,
+    "delayMinutes": 8.11
+  },
+  {
+    "hour": 21,
+    "isWeekend": 0,
+    "distanceKm": 176.2,
+    "trafficScore": 63,
+    "vehicleSpeed": 60,
+    "delayMinutes": 170.81
+  },
+  {
+    "hour": 16,
+    "isWeekend": 0,
+    "distanceKm": 83.6,
+    "trafficScore": 51,
+    "vehicleSpeed": 45,
+    "delayMinutes": 42.19
+  },
+  {
+    "hour": 12,
+    "isWeekend": 0,
+    "distanceKm": 152.6,
+    "trafficScore": 26,
+    "vehicleSpeed": 40,
+    "delayMinutes": 108.28
+  },
+  {
+    "hour": 20,
+    "isWeekend": 0,
+    "distanceKm": 95.9,
+    "trafficScore": 80,
+    "vehicleSpeed": 45,
+    "delayMinutes": 126.14
+  },
+  {
+    "hour": 15,
+    "isWeekend": 1,
+    "distanceKm": 51.0,
+    "trafficScore": 55,
+    "vehicleSpeed": 40,
+    "delayMinutes": 30.94
+  },
+  {
+    "hour": 16,
+    "isWeekend": 0,
+    "distanceKm": 103.6,
+    "trafficScore": 68,
+    "vehicleSpeed": 45,
+    "delayMinutes": 78.77
+  },
+  {
+    "hour": 14,
+    "isWeekend": 1,
+    "distanceKm": 25.0,
+    "trafficScore": 83,
+    "vehicleSpeed": 45,
+    "delayMinutes": 22.33
+  },
+  {
+    "hour": 10,
+    "isWeekend": 0,
+    "distanceKm": 176.7,
+    "trafficScore": 22,
+    "vehicleSpeed": 40,
+    "delayMinutes": 139.22
+  },
+  {
+    "hour": 17,
+    "isWeekend": 0,
+    "distanceKm": 150.4,
+    "trafficScore": 58,
+    "vehicleSpeed": 60,
+    "delayMinutes": 125.48
+  },
+  {
+    "hour": 17,
+    "isWeekend": 0,
+    "distanceKm": 121.3,
+    "trafficScore": 78,
+    "vehicleSpeed": 45,
+    "delayMinutes": 151.15
+  },
+  {
+    "hour": 7,
+    "isWeekend": 1,
+    "distanceKm": 66.4,
+    "trafficScore": 80,
+    "vehicleSpeed": 60,
+    "delayMinutes": 59.44
+  },
+  {
+    "hour": 21,
+    "isWeekend": 1,
+    "distanceKm": 131.7,
+    "trafficScore": 34,
+    "vehicleSpeed": 40,
+    "delayMinutes": 123.33
+  },
+  {
+    "hour": 10,
+    "isWeekend": 1,
+    "distanceKm": 151.1,
+    "trafficScore": 57,
+    "vehicleSpeed": 60,
+    "delayMinutes": 101.08
+  },
+  {
+    "hour": 16,
+    "isWeekend": 1,
+    "distanceKm": 129.4,
+    "trafficScore": 25,
+    "vehicleSpeed": 40,
+    "delayMinutes": 16.32
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 28.2,
+    "trafficScore": 45,
+    "vehicleSpeed": 40,
+    "delayMinutes": 15.63
+  },
+  {
+    "hour": 3,
+    "isWeekend": 1,
+    "distanceKm": 46.7,
+    "trafficScore": 44,
+    "vehicleSpeed": 60,
+    "delayMinutes": 8.42
+  },
+  {
+    "hour": 1,
+    "isWeekend": 0,
+    "distanceKm": 141.3,
+    "trafficScore": 77,
+    "vehicleSpeed": 45,
+    "delayMinutes": 117.76
+  },
+  {
+    "hour": 21,
+    "isWeekend": 0,
+    "distanceKm": 173.9,
+    "trafficScore": 20,
+    "vehicleSpeed": 60,
+    "delayMinutes": 98.46
+  },
+  {
+    "hour": 13,
+    "isWeekend": 1,
+    "distanceKm": 167.1,
+    "trafficScore": 42,
+    "vehicleSpeed": 60,
+    "delayMinutes": 55.45
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 134.2,
+    "trafficScore": 36,
+    "vehicleSpeed": 40,
+    "delayMinutes": 120.1
+  },
+  {
+    "hour": 10,
+    "isWeekend": 1,
+    "distanceKm": 81.2,
+    "trafficScore": 51,
+    "vehicleSpeed": 45,
+    "delayMinutes": 81.95
+  },
+  {
+    "hour": 12,
+    "isWeekend": 1,
+    "distanceKm": 175.0,
+    "trafficScore": 77,
+    "vehicleSpeed": 40,
+    "delayMinutes": 191.81
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 153.3,
+    "trafficScore": 90,
+    "vehicleSpeed": 45,
+    "delayMinutes": 150.83
+  },
+  {
+    "hour": 22,
+    "isWeekend": 0,
+    "distanceKm": 44.2,
+    "trafficScore": 57,
+    "vehicleSpeed": 60,
+    "delayMinutes": 18.48
+  },
+  {
+    "hour": 22,
+    "isWeekend": 0,
+    "distanceKm": 95.7,
+    "trafficScore": 61,
+    "vehicleSpeed": 60,
+    "delayMinutes": 58.4
+  },
+  {
+    "hour": 3,
+    "isWeekend": 1,
+    "distanceKm": 105.6,
+    "trafficScore": 73,
+    "vehicleSpeed": 60,
+    "delayMinutes": 46.19
+  },
+  {
+    "hour": 9,
+    "isWeekend": 1,
+    "distanceKm": 147.4,
+    "trafficScore": 86,
+    "vehicleSpeed": 40,
+    "delayMinutes": 168.14
+  },
+  {
+    "hour": 0,
+    "isWeekend": 1,
+    "distanceKm": 34.7,
+    "trafficScore": 27,
+    "vehicleSpeed": 40,
+    "delayMinutes": 6.54
+  },
+  {
+    "hour": 9,
+    "isWeekend": 1,
+    "distanceKm": 34.9,
+    "trafficScore": 27,
+    "vehicleSpeed": 60,
+    "delayMinutes": 23.39
+  },
+  {
+    "hour": 9,
+    "isWeekend": 0,
+    "distanceKm": 138.1,
+    "trafficScore": 24,
+    "vehicleSpeed": 45,
+    "delayMinutes": 105.06
+  },
+  {
+    "hour": 21,
+    "isWeekend": 0,
+    "distanceKm": 136.2,
+    "trafficScore": 69,
+    "vehicleSpeed": 40,
+    "delayMinutes": 175.55
+  },
+  {
+    "hour": 16,
+    "isWeekend": 1,
+    "distanceKm": 127.8,
+    "trafficScore": 26,
+    "vehicleSpeed": 45,
+    "delayMinutes": 14.74
+  },
+  {
+    "hour": 21,
+    "isWeekend": 1,
+    "distanceKm": 174.2,
+    "trafficScore": 26,
+    "vehicleSpeed": 40,
+    "delayMinutes": 182.69
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 44.5,
+    "trafficScore": 76,
+    "vehicleSpeed": 40,
+    "delayMinutes": 44.73
+  },
+  {
+    "hour": 20,
+    "isWeekend": 1,
+    "distanceKm": 138.4,
+    "trafficScore": 89,
+    "vehicleSpeed": 60,
+    "delayMinutes": 126.3
+  },
+  {
+    "hour": 19,
+    "isWeekend": 0,
+    "distanceKm": 141.9,
+    "trafficScore": 44,
+    "vehicleSpeed": 45,
+    "delayMinutes": 97.18
+  },
+  {
+    "hour": 2,
+    "isWeekend": 0,
+    "distanceKm": 173.6,
+    "trafficScore": 85,
+    "vehicleSpeed": 40,
+    "delayMinutes": 165.33
+  },
+  {
+    "hour": 12,
+    "isWeekend": 0,
+    "distanceKm": 82.8,
+    "trafficScore": 53,
+    "vehicleSpeed": 40,
+    "delayMinutes": 78.45
+  },
+  {
+    "hour": 0,
+    "isWeekend": 1,
+    "distanceKm": 89.3,
+    "trafficScore": 39,
+    "vehicleSpeed": 40,
+    "delayMinutes": 46.83
+  },
+  {
+    "hour": 4,
+    "isWeekend": 1,
+    "distanceKm": 111.5,
+    "trafficScore": 58,
+    "vehicleSpeed": 45,
+    "delayMinutes": 54.57
+  },
+  {
+    "hour": 2,
+    "isWeekend": 1,
+    "distanceKm": 99.3,
+    "trafficScore": 43,
+    "vehicleSpeed": 60,
+    "delayMinutes": 14.55
+  },
+  {
+    "hour": 2,
+    "isWeekend": 0,
+    "distanceKm": 80.7,
+    "trafficScore": 88,
+    "vehicleSpeed": 45,
+    "delayMinutes": 67.72
+  },
+  {
+    "hour": 6,
+    "isWeekend": 1,
+    "distanceKm": 66.3,
+    "trafficScore": 57,
+    "vehicleSpeed": 40,
+    "delayMinutes": 46.88
+  },
+  {
+    "hour": 19,
+    "isWeekend": 1,
+    "distanceKm": 179.4,
+    "trafficScore": 21,
+    "vehicleSpeed": 40,
+    "delayMinutes": 132.97
+  },
+  {
+    "hour": 20,
+    "isWeekend": 0,
+    "distanceKm": 173.0,
+    "trafficScore": 61,
+    "vehicleSpeed": 45,
+    "delayMinutes": 176.6
+  },
+  {
+    "hour": 3,
+    "isWeekend": 1,
+    "distanceKm": 53.6,
+    "trafficScore": 56,
+    "vehicleSpeed": 40,
+    "delayMinutes": 36.6
+  },
+  {
+    "hour": 11,
+    "isWeekend": 1,
+    "distanceKm": 92.8,
+    "trafficScore": 57,
+    "vehicleSpeed": 60,
+    "delayMinutes": 33.58
+  },
+  {
+    "hour": 6,
+    "isWeekend": 1,
+    "distanceKm": 97.4,
+    "trafficScore": 32,
+    "vehicleSpeed": 40,
+    "delayMinutes": 60.43
+  },
+  {
+    "hour": 17,
+    "isWeekend": 0,
+    "distanceKm": 116.6,
+    "trafficScore": 46,
+    "vehicleSpeed": 60,
+    "delayMinutes": 83.9
+  },
+  {
+    "hour": 20,
+    "isWeekend": 0,
+    "distanceKm": 157.0,
+    "trafficScore": 74,
+    "vehicleSpeed": 40,
+    "delayMinutes": 227.82
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 119.9,
+    "trafficScore": 29,
+    "vehicleSpeed": 60,
+    "delayMinutes": 48.32
+  },
+  {
+    "hour": 21,
+    "isWeekend": 0,
+    "distanceKm": 14.0,
+    "trafficScore": 62,
+    "vehicleSpeed": 40,
+    "delayMinutes": 18.29
+  },
+  {
+    "hour": 8,
+    "isWeekend": 0,
+    "distanceKm": 107.7,
+    "trafficScore": 49,
+    "vehicleSpeed": 45,
+    "delayMinutes": 105.18
+  },
+  {
+    "hour": 13,
+    "isWeekend": 1,
+    "distanceKm": 86.7,
+    "trafficScore": 71,
+    "vehicleSpeed": 45,
+    "delayMinutes": 68.12
+  },
+  {
+    "hour": 3,
+    "isWeekend": 0,
+    "distanceKm": 119.0,
+    "trafficScore": 28,
+    "vehicleSpeed": 60,
+    "delayMinutes": 31.49
+  },
+  {
+    "hour": 18,
+    "isWeekend": 0,
+    "distanceKm": 129.1,
+    "trafficScore": 29,
+    "vehicleSpeed": 45,
+    "delayMinutes": 114.91
+  },
+  {
+    "hour": 21,
+    "isWeekend": 1,
+    "distanceKm": 113.1,
+    "trafficScore": 56,
+    "vehicleSpeed": 45,
+    "delayMinutes": 112.71
+  },
+  {
+    "hour": 12,
+    "isWeekend": 1,
+    "distanceKm": 149.8,
+    "trafficScore": 23,
+    "vehicleSpeed": 45,
+    "delayMinutes": 68.07
+  },
+  {
+    "hour": 23,
+    "isWeekend": 1,
+    "distanceKm": 145.5,
+    "trafficScore": 89,
+    "vehicleSpeed": 45,
+    "delayMinutes": 134.91
+  }
+]
