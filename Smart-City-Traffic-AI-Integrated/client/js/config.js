@@ -7,6 +7,6 @@ const isLocalhost =
 // Render/Railway/etc. backend URL.
 window.APP_CONFIG = {
     API_BASE_URL: isLocalhost
-        ? "http://localhost:5000"
-        : "https://YOUR-OWN-BACKEND-URL.onrender.com"
+        ? "http://localhost:5000 "
+        : "https://smart-city-traffic-portfolio-ready-1.onrender.com"
 };

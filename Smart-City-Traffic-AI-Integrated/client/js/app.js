@@ -1,4 +1,4 @@
-const API_BASE_URL = window.APP_CONFIG?.API_BASE_URL || "http://localhost:5000";
+const API_BASE_URL = window.APP_CONFIG?.API_BASE_URL || "https://smart-city-traffic-portfolio-ready-2.onrender.com";
 
 // Use the user's current local time instead of a hard-coded 08:00 default.
 // The value updates automatically every minute until the user chooses a custom time.
@@ -67,7 +67,7 @@ async function loadCities() {
         source.disabled = true;
         destination.disabled = true;
 
-        alert("Backend is not running. Start the server on http://localhost:5000 and refresh the page.");
+        alert("Backend is unavailable. Refresh the page and try again.");
     }
 
 }
