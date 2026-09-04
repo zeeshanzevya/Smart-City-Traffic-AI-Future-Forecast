@@ -8,5 +8,5 @@ const isLocalhost =
 window.APP_CONFIG = {
     API_BASE_URL: isLocalhost
         ? "http://localhost:5000 "
-        : "https://smart-city-traffic-portfolio-ready-1.onrender.com"
+        : "https://smart-city-traffic-portfolio-ready-1.onrender.com   "
 };
